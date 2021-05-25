@@ -1,16 +1,17 @@
 package io.hamzaprojs.psldashboard.Controllers;
 
+import io.hamzaprojs.psldashboard.Model.Match;
 import io.hamzaprojs.psldashboard.Model.Team;
 import io.hamzaprojs.psldashboard.repository.MatchRepository;
 import io.hamzaprojs.psldashboard.repository.TeamRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
+import java.time.LocalDate;
+import java.util.List;
+
+@CrossOrigin
 @RestController
-@RequestMapping
 public class TeamController {
 
     private TeamRepository teamRepository;
@@ -28,4 +29,22 @@ public class TeamController {
         team.setMatches(this.matchRepository.findLatestMatchesbyTeamName(teamName, 4));
         return  team;
     }
+
+    @GetMapping("/team/{teamName}/matches")
+    public List<Match> getMatchesForTeam(@PathVariable String teamName, @RequestParam int year){
+        LocalDate startDate = LocalDate.of(year, 1, 1);
+        LocalDate endDate = LocalDate.of(year+1, 1, 1);
+        return this.matchRepository.getMatchesByTeamBetweenDates(
+                teamName,
+                startDate,
+                endDate);
+    }
+
+    @GetMapping("/team")
+    public Iterable<Team> getAllTeam(){
+        return this.teamRepository.findAll();
+    }
+
+
+
 }

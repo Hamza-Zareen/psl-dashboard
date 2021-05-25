@@ -19,7 +19,6 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.ClassPathResource;
 
 import javax.sql.DataSource;
-import java.time.LocalDate;
 
 @Configuration
 @EnableBatchProcessing
@@ -38,11 +37,11 @@ public class BatchConfig {
         @Bean
         public FlatFileItemReader<MatchInput> reader() {
                 return new FlatFileItemReaderBuilder<MatchInput>()
-                        .name("personItemReader")
+                        .name("MatchItemReader")
                         .resource(new ClassPathResource("match-data.csv"))
                         .delimited()
                         .names(Field_Names)
-                        .fieldSetMapper(new BeanWrapperFieldSetMapper<MatchInput>() {{
+                        .fieldSetMapper(new BeanWrapperFieldSetMapper<>() {{
                                 setTargetType(MatchInput.class);
                         }})
                         .build();
