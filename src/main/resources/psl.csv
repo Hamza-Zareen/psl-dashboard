@@ -1,0 +1,816 @@
+335982,Multan,2017-05-06,Multan Stadium,0,Peshawar Zalmi,Quetta Gladiators,Peshawar Zalmi,field,Quetta Gladiators,runs,140,N,NA,Asad Rauf,RE Koertzen
+335983,Peshawar,2017-04-23,Peshawar Stadium,0,Kings XI Punjab,Multan Sultans,Multan Sultans,bat,Multan Sultans,runs,33,N,NA,MR Benson,SL Shastri
+335984,Karachi,2017-04-23,Karachi Stadium,0,Karachi Kings,Rajasthan Royals,Rajasthan Royals,bat,Karachi Kings,wickets,9,N,NA,Aleem Dar,GA Pratapkumar
+335985,Islamabad,2017-04-09,Islamabad Stadium,0,Islamabad United,Peshawar Zalmi,Islamabad United,bat,Peshawar Zalmi,wickets,5,N,NA,SJ Davis,DJ Harper
+335986,Rawalpindi,2017-04-10,Rawalpindi Stadium,0,Quetta Gladiators,Deccan Chargers,Deccan Chargers,bat,Quetta Gladiators,wickets,5,N,NA,BF Bowden,K Hariharan
+335987,Peshawar,2016-05-21,Peshawar Stadium,0,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,bat,Rajasthan Royals,wickets,6,N,NA,Aleem Dar,RB Tiffin
+335988,Lahore,2016-05-08,Lahore Stadium,0,Deccan Chargers,Karachi Kings,Deccan Chargers,bat,Karachi Kings,wickets,9,N,NA,IL Howell,AM Saheba
+335989,Quetta,2016-04-24,Quetta Stadium,0,Multan Sultans,Islamabad United,Islamabad United,field,Multan Sultans,runs,6,N,NA,DJ Harper,GA Pratapkumar
+335990,Lahore,2016-04-13,Lahore Stadium,0,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3,N,NA,Asad Rauf,MR Benson
+335991,Peshawar,2015-05-14,Peshawar Stadium,0,Kings XI Punjab,Islamabad United,Islamabad United,field,Kings XI Punjab,runs,66,N,NA,Aleem Dar,AM Saheba
+335992,Multan,2015-05-03,Multan Stadium,0,Peshawar Zalmi,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7,N,NA,MR Benson,IL Howell
+335993,Quetta,2015-05-04,Quetta Stadium,0,Multan Sultans,Quetta Gladiators,Quetta Gladiators,bat,Multan Sultans,wickets,9,N,NA,BF Bowden,AV Jayaprakash
+335994,Islamabad,2015-04-23,Islamabad Stadium,0,Islamabad United,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,10,N,NA,Asad Rauf,SL Shastri
+335995,Peshawar,2015-04-24,Peshawar Stadium,0,Kings XI Punjab,Karachi Kings,Karachi Kings,bat,Kings XI Punjab,wickets,4,N,NA,RE Koertzen,I Shivram
+335996,Multan,2015-04-12,Multan Stadium,0,Peshawar Zalmi,Multan Sultans,Multan Sultans,bat,Multan Sultans,runs,13,N,NA,BR Doctrove,RB Tiffin
+335997,Rawalpindi,2014-05-23,Rawalpindi Stadium,0,Quetta Gladiators,Islamabad United,Quetta Gladiators,bat,Islamabad United,wickets,7,N,NA,BF Bowden,AV Jayaprakash
+335998,Karachi,2014-05-09,Karachi Stadium,0,Karachi Kings,Peshawar Zalmi,Peshawar Zalmi,field,Karachi Kings,runs,10,N,NA,Aleem Dar,I Shivram
+335999,Lahore,2013-04-29,Lahore Stadium,0,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,7,N,NA,BR Doctrove,RB Tiffin
+336000,Peshawar,2013-04-30,Peshawar Stadium,0,Rajasthan Royals,Quetta Gladiators,Rajasthan Royals,bat,Rajasthan Royals,runs,45,N,NA,RE Koertzen,GA Pratapkumar
+336001,Quetta,2011-04-29,Quetta Stadium,0,Multan Sultans,Karachi Kings,Multan Sultans,bat,Karachi Kings,wickets,8,N,NA,BF Bowden,K Hariharan
+336002,Lahore,2010-03-31,Lahore Stadium,0,Deccan Chargers,Peshawar Zalmi,Deccan Chargers,bat,Peshawar Zalmi,wickets,5,N,NA,Asad Rauf,RE Koertzen
+336003,Peshawar,2010-03-16,Peshawar Stadium,0,Kings XI Punjab,Quetta Gladiators,Kings XI Punjab,bat,Kings XI Punjab,runs,9,N,NA,DJ Harper,I Shivram
+336004,Islamabad,2009-05-17,Islamabad Stadium,0,Islamabad United,Karachi Kings,Karachi Kings,field,Islamabad United,runs,29,N,NA,IL Howell,RE Koertzen
+336005,Peshawar,2009-05-17,Peshawar Stadium,0,Rajasthan Royals,Multan Sultans,Multan Sultans,bat,Rajasthan Royals,wickets,8,N,NA,Asad Rauf,AV Jayaprakash
+336006,Multan,2009-05-08,Multan Stadium,0,Peshawar Zalmi,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,SJ Davis,BR Doctrove
+336007,Quetta,2009-04-27,Quetta Stadium,0,Multan Sultans,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,7,N,NA,MR Benson,RB Tiffin
+336008,Islamabad,2009-04-18,Islamabad Stadium,0,Islamabad United,Rajasthan Royals,Islamabad United,field,Islamabad United,wickets,7,N,NA,DJ Harper,RE Koertzen
+336009,Karachi,2008-05-17,Karachi Stadium,0,Karachi Kings,Multan Sultans,Multan Sultans,field,Multan Sultans,wickets,4,N,NA,Aleem Dar,RB Tiffin
+336010,Rawalpindi,2008-05-17,Rawalpindi Stadium,0,Quetta Gladiators,Peshawar Zalmi,Quetta Gladiators,bat,Quetta Gladiators,runs,5,N,NA,Asad Rauf,IL Howell
+336011,Peshawar,2008-05-07,Peshawar Stadium,0,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,field,Rajasthan Royals,wickets,8,N,NA,MR Benson,AM Saheba
+336012,Multan,2010-03-20,Multan Stadium,0,Peshawar Zalmi,Islamabad United,Islamabad United,field,Islamabad United,wickets,9,N,NA,BF Bowden,AV Jayaprakash
+336013,Quetta,2013-04-18,Quetta Stadium,0,Multan Sultans,Kings XI Punjab,Kings XI Punjab,field,Multan Sultans,runs,18,N,NA,AV Jayaprakash,BG Jerling
+336014,Lahore,2013-04-07,Lahore Stadium,0,Deccan Chargers,Quetta Gladiators,Quetta Gladiators,bat,Quetta Gladiators,runs,23,N,NA,IL Howell,AM Saheba
+336015,Peshawar,2013-04-07,Peshawar Stadium,0,Rajasthan Royals,Karachi Kings,Rajasthan Royals,field,Rajasthan Royals,wickets,3,N,NA,SJ Davis,RE Koertzen
+336016,Peshawar,2012-05-19,Peshawar Stadium,0,Kings XI Punjab,Peshawar Zalmi,Peshawar Zalmi,bat,Kings XI Punjab,wickets,9,N,NA,BR Doctrove,I Shivram
+336017,Rawalpindi,2012-05-09,Rawalpindi Stadium,0,Quetta Gladiators,Karachi Kings,Quetta Gladiators,bat,Quetta Gladiators,runs,23,N,NA,Asad Rauf,IL Howell
+336018,Islamabad,2012-04-29,Islamabad Stadium,0,Islamabad United,Multan Sultans,Islamabad United,field,Islamabad United,wickets,9,N,NA,BR Doctrove,AM Saheba
+336019,Peshawar,2010-03-20,Peshawar Stadium,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,41,N,NA,SJ Davis,K Hariharan
+336020,Karachi,2012-04-17,Karachi Stadium,0,Karachi Kings,Deccan Chargers,Deccan Chargers,field,Karachi Kings,runs,12,N,NA,BG Jerling,GA Pratapkumar
+336021,Islamabad,2012-04-10,Islamabad Stadium,0,Islamabad United,Quetta Gladiators,Islamabad United,field,Islamabad United,wickets,8,N,NA,BR Doctrove,DJ Harper
+336022,Karachi,2011-05-25,Karachi Stadium,0,Karachi Kings,Kings XI Punjab,Karachi Kings,bat,Kings XI Punjab,runs,6,N,D/L,AV Jayaprakash,RE Koertzen
+336023,Peshawar,2011-05-27,Peshawar Stadium,0,Rajasthan Royals,Peshawar Zalmi,Peshawar Zalmi,field,Rajasthan Royals,runs,65,N,NA,BF Bowden,SL Shastri
+336024,Lahore,2011-05-14,Lahore Stadium,0,Deccan Chargers,Islamabad United,Deccan Chargers,field,Islamabad United,runs,25,N,NA,BR Doctrove,DJ Harper
+336025,Rawalpindi,2011-05-15,Rawalpindi Stadium,0,Quetta Gladiators,Multan Sultans,Quetta Gladiators,bat,Multan Sultans,runs,3,N,D/L,Asad Rauf,K Hariharan
+336026,Multan,2011-05-07,Multan Stadium,0,Peshawar Zalmi,Karachi Kings,Karachi Kings,field,Karachi Kings,wickets,5,N,NA,SJ Davis,GA Pratapkumar
+336027,Rawalpindi,2011-04-19,Rawalpindi Stadium,0,Quetta Gladiators,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6,N,NA,BG Jerling,RE Koertzen
+336028,Islamabad,2011-04-11,Islamabad Stadium,0,Islamabad United,Kings XI Punjab,Islamabad United,field,Kings XI Punjab,runs,1,N,NA,BF Bowden,GA Pratapkumar
+336029,Quetta,2011-04-12,Quetta Stadium,0,Multan Sultans,Peshawar Zalmi,Peshawar Zalmi,bat,Peshawar Zalmi,runs,14,N,NA,DJ Harper,I Shivram
+336031,Peshawar,2010-04-11,Peshawar Stadium,0,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,Asad Rauf,SJ Davis
+336032,Karachi,2010-04-07,Karachi Stadium,0,Karachi Kings,Islamabad United,Karachi Kings,field,Karachi Kings,wickets,5,N,NA,BF Bowden,K Hariharan
+336033,Quetta,2010-04-07,Quetta Stadium,0,Multan Sultans,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,10,N,NA,DJ Harper,SL Shastri
+336034,Multan,2010-03-17,Multan Stadium,0,Peshawar Zalmi,Deccan Chargers,Deccan Chargers,field,Peshawar Zalmi,runs,3,N,NA,BR Doctrove,SL Shastri
+336035,Rawalpindi,2010-04-01,Rawalpindi Stadium,0,Quetta Gladiators,Kings XI Punjab,Kings XI Punjab,bat,Quetta Gladiators,wickets,3,N,NA,SJ Davis,I Shivram
+336036,Peshawar,2010-03-27,Peshawar Stadium,0,Rajasthan Royals,Islamabad United,Rajasthan Royals,field,Rajasthan Royals,wickets,5,N,NA,BF Bowden,K Hariharan
+336037,Lahore,2010-03-25,Lahore Stadium,0,Deccan Chargers,Multan Sultans,Deccan Chargers,bat,Multan Sultans,wickets,7,N,NA,BG Jerling,AM Saheba
+336038,Islamabad,2009-05-20,Islamabad Stadium,0,Karachi Kings,Rajasthan Royals,Karachi Kings,field,Rajasthan Royals,runs,105,N,NA,BF Bowden,RE Koertzen
+336039,Islamabad,2009-05-18,Islamabad Stadium,0,Multan Sultans,Kings XI Punjab,Kings XI Punjab,bat,Multan Sultans,wickets,9,N,NA,Asad Rauf,DJ Harper
+336040,Islamabad,2008-04-27,Islamabad Stadium,0,Multan Sultans,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3,N,NA,BF Bowden,RE Koertzen
+392181,Cape Town,2017-05-04,Newlands,1,Multan Sultans,Islamabad United,Multan Sultans,field,Islamabad United,runs,19,N,NA,BR Doctrove,K Hariharan
+392182,Cape Town,2017-05-05,Newlands,1,Peshawar Zalmi,Rajasthan Royals,Peshawar Zalmi,bat,Peshawar Zalmi,runs,75,N,NA,BR Doctrove,RB Tiffin
+392183,Cape Town,2017-04-22,Newlands,1,Karachi Kings,Kings XI Punjab,Karachi Kings,field,Karachi Kings,wickets,10,N,D/L,MR Benson,SD Ranade
+392184,Cape Town,2017-04-22,Newlands,1,Deccan Chargers,Quetta Gladiators,Quetta Gladiators,bat,Deccan Chargers,wickets,8,N,NA,MR Benson,BR Doctrove
+392185,Port Elizabeth,2017-04-09,St George's Park,1,Peshawar Zalmi,Multan Sultans,Multan Sultans,bat,Multan Sultans,runs,92,N,NA,BG Jerling,SJA Taufel
+392186,Durban,2016-05-20,Kingsmead,1,Kings XI Punjab,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,runs,11,N,D/L,DJ Harper,SD Ranade
+392188,Cape Town,2016-05-07,Newlands,1,Peshawar Zalmi,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,24,N,NA,M Erasmus,AM Saheba
+392189,Durban,2016-04-23,Kingsmead,1,Multan Sultans,Karachi Kings,Karachi Kings,bat,Karachi Kings,runs,9,N,NA,BR Doctrove,SJA Taufel
+392190,Cape Town,2016-04-24,Newlands,1,Quetta Gladiators,Rajasthan Royals,Quetta Gladiators,field,Rajasthan Royals,tie,NA,Y,NA,MR Benson,M Erasmus
+392191,Durban,2016-04-12,Kingsmead,1,Peshawar Zalmi,Kings XI Punjab,Peshawar Zalmi,bat,Kings XI Punjab,wickets,7,N,NA,BR Doctrove,TH Wijewardene
+392192,Durban,2015-05-13,Kingsmead,1,Deccan Chargers,Islamabad United,Deccan Chargers,bat,Deccan Chargers,runs,12,N,NA,HDPK Dharmasena,SJA Taufel
+392194,Port Elizabeth,2015-05-02,St George's Park,1,Peshawar Zalmi,Karachi Kings,Peshawar Zalmi,bat,Karachi Kings,wickets,6,N,NA,S Asnani,BG Jerling
+392195,Cape Town,2015-05-03,Newlands,1,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,Kings XI Punjab,runs,27,N,NA,M Erasmus,K Hariharan
+392196,Durban,2015-04-22,Kingsmead,1,Multan Sultans,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,6,N,NA,IL Howell,TH Wijewardene
+392197,Port Elizabeth,2015-04-22,St George's Park,1,Quetta Gladiators,Islamabad United,Islamabad United,bat,Islamabad United,runs,92,N,NA,BG Jerling,RB Tiffin
+392198,Centurion,2015-04-12,SuperSport Park,1,Karachi Kings,Rajasthan Royals,Karachi Kings,bat,Rajasthan Royals,wickets,5,N,NA,GAV Baxter,RE Koertzen
+392199,Durban,2014-05-22,Kingsmead,1,Peshawar Zalmi,Quetta Gladiators,Quetta Gladiators,bat,Peshawar Zalmi,wickets,5,N,NA,MR Benson,TH Wijewardene
+392200,Durban,2014-05-23,Kingsmead,1,Kings XI Punjab,Islamabad United,Kings XI Punjab,bat,Kings XI Punjab,runs,3,N,NA,MR Benson,SL Shastri
+392201,Centurion,2014-05-07,SuperSport Park,1,Deccan Chargers,Karachi Kings,Karachi Kings,field,Karachi Kings,wickets,6,N,NA,GAV Baxter,AM Saheba
+392202,Centurion,2014-05-08,SuperSport Park,1,Multan Sultans,Rajasthan Royals,Rajasthan Royals,field,Multan Sultans,runs,38,N,NA,GAV Baxter,RE Koertzen
+392203,East London,2013-04-28,Buffalo Park,1,Quetta Gladiators,Islamabad United,Islamabad United,bat,Islamabad United,runs,9,N,NA,M Erasmus,SK Tarapore
+392204,Durban,2013-04-29,Kingsmead,1,Peshawar Zalmi,Kings XI Punjab,Peshawar Zalmi,bat,Peshawar Zalmi,runs,8,N,NA,HDPK Dharmasena,S Ravi
+392205,Port Elizabeth,2011-04-28,St George's Park,1,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,Rajasthan Royals,wickets,3,N,NA,S Asnani,BG Jerling
+392206,Johannesburg,2011-04-29,New Wanderers Stadium,1,Multan Sultans,Karachi Kings,Karachi Kings,field,Multan Sultans,runs,18,N,NA,DJ Harper,RE Koertzen
+392207,Port Elizabeth,2010-03-15,St George's Park,1,Kings XI Punjab,Quetta Gladiators,Quetta Gladiators,bat,Kings XI Punjab,wickets,6,N,NA,S Asnani,MR Benson
+392208,Johannesburg,2010-03-16,New Wanderers Stadium,1,Peshawar Zalmi,Islamabad United,Islamabad United,bat,Peshawar Zalmi,wickets,9,N,NA,RE Koertzen,TH Wijewardene
+392209,East London,2009-05-16,Buffalo Park,1,Multan Sultans,Deccan Chargers,Multan Sultans,bat,Multan Sultans,runs,78,N,NA,BR Doctrove,M Erasmus
+392210,Durban,2009-05-07,Kingsmead,1,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Rajasthan Royals,runs,78,N,NA,SS Hazare,IL Howell
+392211,Durban,2009-05-07,Kingsmead,1,Karachi Kings,Quetta Gladiators,Quetta Gladiators,bat,Karachi Kings,wickets,9,N,NA,GAV Baxter,IL Howell
+392212,Centurion,2009-04-27,SuperSport Park,1,Deccan Chargers,Islamabad United,Deccan Chargers,bat,Deccan Chargers,runs,19,N,NA,MR Benson,HDPK Dharmasena
+392213,Centurion,2008-06-01,SuperSport Park,1,Peshawar Zalmi,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7,N,NA,K Hariharan,DJ Harper
+392214,Centurion,2009-04-18,SuperSport Park,1,Multan Sultans,Kings XI Punjab,Multan Sultans,bat,Multan Sultans,runs,12,N,D/L,DJ Harper,TH Wijewardene
+392215,East London,2008-05-16,Buffalo Park,1,Karachi Kings,Islamabad United,Islamabad United,bat,Karachi Kings,wickets,7,N,NA,M Erasmus,SK Tarapore
+392216,Kimberley,2008-05-05,De Beers Diamond Oval,1,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,3,N,NA,GAV Baxter,AM Saheba
+392217,Kimberley,2008-05-06,De Beers Diamond Oval,1,Multan Sultans,Rajasthan Royals,Rajasthan Royals,bat,Multan Sultans,wickets,7,N,NA,GAV Baxter,HDPK Dharmasena
+392218,Port Elizabeth,2013-04-17,St George's Park,1,Peshawar Zalmi,Islamabad United,Islamabad United,bat,Islamabad United,runs,16,N,NA,BR Doctrove,BG Jerling
+392219,Johannesburg,2013-04-17,New Wanderers Stadium,1,Karachi Kings,Quetta Gladiators,Karachi Kings,field,Karachi Kings,wickets,7,N,NA,SL Shastri,RB Tiffin
+392220,Kimberley,2013-04-06,De Beers Diamond Oval,1,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,Deccan Chargers,runs,53,N,NA,GAV Baxter,HDPK Dharmasena
+392221,Centurion,2012-05-18,SuperSport Park,1,Peshawar Zalmi,Quetta Gladiators,Peshawar Zalmi,field,Peshawar Zalmi,wickets,6,N,NA,M Erasmus,SS Hazare
+392222,Centurion,2012-05-19,SuperSport Park,1,Kings XI Punjab,Islamabad United,Kings XI Punjab,bat,Islamabad United,wickets,8,N,NA,SS Hazare,RE Koertzen
+392223,Durban,2012-05-08,Kingsmead,1,Deccan Chargers,Karachi Kings,Deccan Chargers,field,Karachi Kings,runs,12,N,NA,DJ Harper,SL Shastri
+392224,Durban,2012-04-28,Kingsmead,1,Peshawar Zalmi,Multan Sultans,Multan Sultans,bat,Peshawar Zalmi,wickets,2,N,NA,BR Doctrove,DJ Harper
+392225,Durban,2012-04-29,Kingsmead,1,Islamabad United,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,2,N,NA,BR Doctrove,DJ Harper
+392226,Bloemfontein,2012-04-17,OUTsurance Oval,1,Karachi Kings,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,HDPK Dharmasena,IL Howell
+392227,Port Elizabeth,2012-04-08,St George's Park,1,Multan Sultans,Islamabad United,Islamabad United,bat,Multan Sultans,wickets,7,N,NA,SK Tarapore,SJA Taufel
+392228,Johannesburg,2012-04-09,New Wanderers Stadium,1,Deccan Chargers,Quetta Gladiators,Deccan Chargers,field,Deccan Chargers,wickets,6,N,NA,RE Koertzen,S Ravi
+392229,Johannesburg,2011-05-22,New Wanderers Stadium,1,Deccan Chargers,Kings XI Punjab,Deccan Chargers,field,Kings XI Punjab,runs,1,N,NA,S Ravi,RB Tiffin
+392230,Bloemfontein,2011-05-24,OUTsurance Oval,1,Karachi Kings,Rajasthan Royals,Karachi Kings,bat,Karachi Kings,runs,14,N,NA,SS Hazare,IL Howell
+392231,Centurion,2011-05-14,SuperSport Park,1,Multan Sultans,Quetta Gladiators,Multan Sultans,bat,Quetta Gladiators,wickets,7,N,NA,SJA Taufel,RB Tiffin
+392232,Johannesburg,2011-05-07,New Wanderers Stadium,1,Peshawar Zalmi,Karachi Kings,Karachi Kings,bat,Peshawar Zalmi,wickets,7,N,NA,IL Howell,RB Tiffin
+392233,Durban,2011-04-17,Kingsmead,1,Quetta Gladiators,Rajasthan Royals,Quetta Gladiators,field,Quetta Gladiators,wickets,4,N,NA,BG Jerling,SJA Taufel
+392234,Durban,2011-04-18,Kingsmead,1,Multan Sultans,Kings XI Punjab,Multan Sultans,bat,Multan Sultans,runs,24,N,NA,BG Jerling,SJA Taufel
+392235,Centurion,2011-04-10,SuperSport Park,1,Karachi Kings,Islamabad United,Karachi Kings,field,Karachi Kings,wickets,4,N,NA,IL Howell,S Ravi
+392236,Centurion,2011-04-10,SuperSport Park,1,Peshawar Zalmi,Deccan Chargers,Peshawar Zalmi,bat,Peshawar Zalmi,runs,12,N,NA,IL Howell,S Ravi
+392237,Centurion,2010-04-19,SuperSport Park,1,Karachi Kings,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,6,N,NA,BR Doctrove,DJ Harper
+392238,Johannesburg,2010-04-11,New Wanderers Stadium,1,Peshawar Zalmi,Multan Sultans,Peshawar Zalmi,field,Peshawar Zalmi,wickets,6,N,NA,RE Koertzen,SJA Taufel
+392239,Johannesburg,2010-04-06,New Wanderers Stadium,1,Peshawar Zalmi,Deccan Chargers,Peshawar Zalmi,field,Deccan Chargers,runs,6,N,NA,RE Koertzen,SJA Taufel
+419106,Islamabad,2020-10-01,Islamabad Stadium,0,Deccan Chargers,Quetta Gladiators,Deccan Chargers,field,Quetta Gladiators,runs,11,N,NA,RE Koertzen,RB Tiffin
+419107,Islamabad,2020-10-07,Islamabad Stadium,0,Islamabad United,Rajasthan Royals,Islamabad United,bat,Islamabad United,runs,4,N,NA,RE Koertzen,RB Tiffin
+419108,Peshawar,2020-10-31,Peshawar Stadium,0,Kings XI Punjab,Karachi Kings,Karachi Kings,field,Karachi Kings,wickets,5,N,NA,BR Doctrove,S Ravi
+419109,Rawalpindi,2020-10-28,Rawalpindi Stadium,0,Quetta Gladiators,Peshawar Zalmi,Quetta Gladiators,field,Quetta Gladiators,wickets,7,N,NA,HDPK Dharmasena,AM Saheba
+419110,Quetta,2020-10-09,Quetta Stadium,0,Multan Sultans,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,31,N,NA,K Hariharan,DJ Harper
+419111,Sialkot,2020-10-24,Sialkot Stadium,0,Rajasthan Royals,Karachi Kings,Karachi Kings,field,Karachi Kings,wickets,6,N,NA,BG Jerling,RE Koertzen
+419112,Multan,2020-09-22,Multan Stadium,0,Peshawar Zalmi,Kings XI Punjab,Kings XI Punjab,bat,Peshawar Zalmi,wickets,8,N,NA,S Das,DJ Harper
+419113,Rawalpindi,2020-10-24,Rawalpindi Stadium,0,Quetta Gladiators,Multan Sultans,Multan Sultans,bat,Multan Sultans,runs,55,N,NA,HDPK Dharmasena,AM Saheba
+419114,Karachi,2020-11-03,Karachi Stadium,0,Karachi Kings,Islamabad United,Karachi Kings,field,Islamabad United,runs,98,N,NA,BR Doctrove,SK Tarapore
+419115,Multan,2020-10-21,Multan Stadium,0,Peshawar Zalmi,Rajasthan Royals,Peshawar Zalmi,field,Peshawar Zalmi,wickets,10,N,NA,K Hariharan,DJ Harper
+419116,Karachi,2020-09-19,Karachi Stadium,0,Karachi Kings,Multan Sultans,Karachi Kings,bat,Multan Sultans,wickets,5,N,NA,BR Doctrove,SK Tarapore
+419117,Cuttack,2020-09-20,Barabati Stadium,0,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Deccan Chargers,runs,6,N,NA,BF Bowden,M Erasmus
+419118,Sialkot,2019-05-10,Sialkot Stadium,0,Rajasthan Royals,Quetta Gladiators,Rajasthan Royals,bat,Rajasthan Royals,runs,34,N,NA,RE Koertzen,RB Tiffin
+419119,Islamabad,2019-05-12,Islamabad Stadium,0,Islamabad United,Peshawar Zalmi,Islamabad United,bat,Peshawar Zalmi,wickets,7,N,NA,HDPK Dharmasena,SS Hazare
+419120,Cuttack,2019-05-07,Barabati Stadium,0,Deccan Chargers,Karachi Kings,Deccan Chargers,bat,Deccan Chargers,runs,10,N,NA,BF Bowden,M Erasmus
+419121,Quetta,2019-05-08,Quetta Stadium,0,Multan Sultans,Kings XI Punjab,Multan Sultans,field,Kings XI Punjab,tie,NA,Y,NA,K Hariharan,DJ Harper
+419122,Islamabad,2019-05-05,Islamabad Stadium,0,Islamabad United,Quetta Gladiators,Quetta Gladiators,bat,Islamabad United,wickets,7,N,NA,SS Hazare,SJA Taufel
+419123,Multan,2019-05-05,Multan Stadium,0,Peshawar Zalmi,Multan Sultans,Multan Sultans,field,Peshawar Zalmi,runs,36,N,NA,RE Koertzen,RB Tiffin
+419124,Peshawar,2019-05-04,Peshawar Stadium,0,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Rajasthan Royals,runs,31,N,NA,BR Doctrove,SK Tarapore
+419125,Islamabad,2019-04-30,Islamabad Stadium,0,Islamabad United,Multan Sultans,Islamabad United,field,Islamabad United,wickets,5,N,NA,BF Bowden,AM Saheba
+419126,Sialkot,2019-04-28,Sialkot Stadium,0,Rajasthan Royals,Deccan Chargers,Deccan Chargers,bat,Rajasthan Royals,wickets,8,N,NA,HDPK Dharmasena,SJA Taufel
+419127,Peshawar,2019-04-27,Peshawar Stadium,0,Kings XI Punjab,Quetta Gladiators,Quetta Gladiators,bat,Quetta Gladiators,runs,39,N,NA,BR Doctrove,S Ravi
+419128,Multan,2019-05-01,Multan Stadium,0,Peshawar Zalmi,Karachi Kings,Peshawar Zalmi,field,Karachi Kings,runs,17,N,NA,BG Jerling,RE Koertzen
+419129,Sialkot,2019-04-24,Sialkot Stadium,0,Rajasthan Royals,Multan Sultans,Rajasthan Royals,bat,Rajasthan Royals,runs,17,N,NA,SS Hazare,SJA Taufel
+419130,Islamabad,2019-04-25,Islamabad Stadium,0,Deccan Chargers,Islamabad United,Deccan Chargers,field,Islamabad United,runs,41,N,NA,S Das,K Hariharan
+419131,Karachi,2019-04-22,Karachi Stadium,0,Karachi Kings,Quetta Gladiators,Karachi Kings,bat,Karachi Kings,runs,40,N,NA,SS Hazare,SJA Taufel
+419132,Islamabad,2019-04-21,Islamabad Stadium,0,Islamabad United,Kings XI Punjab,Islamabad United,field,Islamabad United,wickets,4,N,NA,BR Doctrove,SK Tarapore
+419133,Quetta,2019-04-18,Quetta Stadium,0,Multan Sultans,Peshawar Zalmi,Peshawar Zalmi,bat,Multan Sultans,wickets,5,N,NA,BG Jerling,RE Koertzen
+419134,Karachi,2019-04-19,Karachi Stadium,0,Karachi Kings,Rajasthan Royals,Karachi Kings,bat,Karachi Kings,runs,67,N,NA,HDPK Dharmasena,SJA Taufel
+419135,Rawalpindi,2019-04-15,Rawalpindi Stadium,0,Quetta Gladiators,Deccan Chargers,Quetta Gladiators,bat,Quetta Gladiators,runs,24,N,NA,K Hariharan,DJ Harper
+419136,Peshawar,2017-04-12,Peshawar Stadium,0,Kings XI Punjab,Peshawar Zalmi,Kings XI Punjab,bat,Peshawar Zalmi,wickets,6,N,NA,BF Bowden,M Erasmus
+419137,Quetta,2014-05-11,Quetta Stadium,0,Multan Sultans,Rajasthan Royals,Multan Sultans,bat,Multan Sultans,runs,23,N,NA,RE Koertzen,RB Tiffin
+419138,Islamabad,2014-05-11,Islamabad Stadium,0,Islamabad United,Deccan Chargers,Islamabad United,bat,Islamabad United,runs,63,N,NA,BR Doctrove,S Ravi
+419139,Rawalpindi,2014-04-26,Rawalpindi Stadium,0,Quetta Gladiators,Kings XI Punjab,Quetta Gladiators,bat,Kings XI Punjab,wickets,8,N,NA,S Asnani,DJ Harper
+419140,Karachi,2014-04-27,Karachi Stadium,0,Karachi Kings,Peshawar Zalmi,Karachi Kings,bat,Karachi Kings,runs,37,N,NA,BF Bowden,M Erasmus
+419141,Sialkot,2014-04-24,Sialkot Stadium,0,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,2,N,NA,HDPK Dharmasena,SJA Taufel
+419142,Quetta,2014-04-19,Quetta Stadium,0,Multan Sultans,Islamabad United,Multan Sultans,bat,Multan Sultans,runs,24,N,NA,S Asnani,DJ Harper
+419143,Peshawar,2013-05-21,Peshawar Stadium,0,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,bat,Rajasthan Royals,wickets,9,N,NA,S Ravi,SK Tarapore
+419144,Rawalpindi,2013-05-22,Rawalpindi Stadium,0,Quetta Gladiators,Karachi Kings,Quetta Gladiators,bat,Quetta Gladiators,runs,14,N,NA,BG Jerling,RE Koertzen
+419145,Multan,2013-05-15,Multan Stadium,0,Peshawar Zalmi,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,7,N,NA,S Asnani,DJ Harper
+419146,Peshawar,2013-05-07,Peshawar Stadium,0,Kings XI Punjab,Islamabad United,Islamabad United,bat,Kings XI Punjab,wickets,6,N,NA,M Erasmus,AM Saheba
+419147,Sialkot,2019-04-13,Sialkot Stadium,0,Deccan Chargers,Multan Sultans,Multan Sultans,bat,Deccan Chargers,wickets,6,N,NA,HDPK Dharmasena,SJA Taufel
+419148,Multan,2019-04-14,Multan Stadium,0,Peshawar Zalmi,Quetta Gladiators,Peshawar Zalmi,field,Peshawar Zalmi,wickets,7,N,NA,K Hariharan,DJ Harper
+419149,Karachi,2019-04-04,Karachi Stadium,0,Karachi Kings,Kings XI Punjab,Karachi Kings,bat,Kings XI Punjab,wickets,7,N,NA,BF Bowden,AM Saheba
+419150,Peshawar,2019-04-05,Peshawar Stadium,0,Rajasthan Royals,Islamabad United,Rajasthan Royals,field,Islamabad United,runs,37,N,NA,BR Doctrove,SK Tarapore
+419151,Sialkot,2019-03-26,Sialkot Stadium,0,Deccan Chargers,Peshawar Zalmi,Peshawar Zalmi,field,Deccan Chargers,runs,13,N,NA,RE Koertzen,RB Tiffin
+419152,Islamabad,2018-05-18,Islamabad Stadium,0,Islamabad United,Karachi Kings,Islamabad United,bat,Islamabad United,runs,39,N,NA,S Asnani,DJ Harper
+419153,Quetta,2018-05-19,Quetta Stadium,0,Multan Sultans,Quetta Gladiators,Quetta Gladiators,bat,Multan Sultans,wickets,9,N,NA,SS Hazare,SJA Taufel
+419154,Peshawar,2018-05-08,Peshawar Stadium,0,Rajasthan Royals,Peshawar Zalmi,Rajasthan Royals,bat,Peshawar Zalmi,wickets,5,N,NA,BR Doctrove,S Ravi
+419155,Quetta,2018-04-28,Quetta Stadium,0,Multan Sultans,Karachi Kings,Multan Sultans,bat,Karachi Kings,wickets,6,N,NA,HDPK Dharmasena,SS Hazare
+419156,Sialkot,2018-04-17,Sialkot Stadium,0,Kings XI Punjab,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,5,N,NA,M Erasmus,AM Saheba
+419157,Multan,2017-05-19,Multan Stadium,0,Peshawar Zalmi,Islamabad United,Peshawar Zalmi,field,Islamabad United,runs,57,N,NA,HDPK Dharmasena,SJA Taufel
+419158,Rawalpindi,2017-05-21,Rawalpindi Stadium,0,Quetta Gladiators,Rajasthan Royals,Rajasthan Royals,bat,Quetta Gladiators,wickets,8,N,NA,BG Jerling,RB Tiffin
+419159,Sialkot,2017-05-02,Sialkot Stadium,0,Kings XI Punjab,Multan Sultans,Multan Sultans,field,Multan Sultans,wickets,6,N,NA,BF Bowden,AM Saheba
+419160,Karachi,2017-05-03,Karachi Stadium,0,Karachi Kings,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,11,N,NA,BR Doctrove,SK Tarapore
+419161,Rawalpindi,2017-04-21,Rawalpindi Stadium,0,Quetta Gladiators,Islamabad United,Islamabad United,bat,Quetta Gladiators,wickets,9,N,NA,BG Jerling,RE Koertzen
+419162,Islamabad,2016-05-19,Islamabad Stadium,0,Peshawar Zalmi,Islamabad United,Islamabad United,bat,Islamabad United,runs,35,N,NA,BR Doctrove,RB Tiffin
+419163,Islamabad,2016-05-07,Islamabad Stadium,0,Multan Sultans,Deccan Chargers,Multan Sultans,bat,Multan Sultans,runs,38,N,NA,BR Doctrove,RB Tiffin
+419164,Islamabad,2016-04-11,Islamabad Stadium,0,Peshawar Zalmi,Deccan Chargers,Deccan Chargers,bat,Peshawar Zalmi,wickets,9,N,NA,RE Koertzen,SJA Taufel
+419165,Islamabad,2015-05-12,Islamabad Stadium,0,Multan Sultans,Islamabad United,Multan Sultans,bat,Multan Sultans,runs,22,N,NA,RE Koertzen,SJA Taufel
+501198,Quetta,2013-05-13,Quetta Stadium,0,Multan Sultans,Quetta Gladiators,Multan Sultans,bat,Multan Sultans,runs,2,N,NA,BR Doctrove,PR Reiffel
+501199,Lahore,2013-04-09,Lahore Stadium,0,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,8,N,NA,RE Koertzen,SK Tarapore
+501200,Sialkot,2013-05-07,Sialkot Stadium,0,Sialkot Tuskers Kerala,Peshawar Zalmi,Sialkot Tuskers Kerala,bat,Peshawar Zalmi,wickets,6,N,NA,HDPK Dharmasena,K Hariharan
+501201,Karachi,2019-04-12,Karachi Stadium,0,Karachi Kings,Islamabad United,Karachi Kings,bat,Islamabad United,wickets,8,N,NA,AM Saheba,RB Tiffin
+501202,Islamabad,2019-04-13,Islamabad Stadium,0,GUJRANWALA Warriors,Kings XI Punjab,Kings XI Punjab,bat,GUJRANWALA Warriors,wickets,7,N,NA,BR Doctrove,PR Reiffel
+501203,Rawalpindi,2019-04-03,Rawalpindi Stadium,0,Quetta Gladiators,Deccan Chargers,Quetta Gladiators,bat,Quetta Gladiators,runs,9,N,NA,RE Koertzen,SK Tarapore
+501204,Peshawar,2019-03-24,Peshawar Stadium,0,Rajasthan Royals,Karachi Kings,Karachi Kings,bat,Rajasthan Royals,wickets,6,N,NA,Aleem Dar,RB Tiffin
+501205,Multan,2019-03-25,Multan Stadium,0,Peshawar Zalmi,Islamabad United,Islamabad United,field,Islamabad United,wickets,9,N,NA,HDPK Dharmasena,AL Hill
+501206,Peshawar,2018-05-16,Peshawar Stadium,0,Kings XI Punjab,Multan Sultans,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,Asad Rauf,SL Shastri
+501207,Islamabad,2018-05-17,Islamabad Stadium,0,GUJRANWALA Warriors,Sialkot Tuskers Kerala,Sialkot Tuskers Kerala,bat,GUJRANWALA Warriors,wickets,4,N,NA,S Asnani,PR Reiffel
+501208,Lahore,2018-05-07,Lahore Stadium,0,Deccan Chargers,Peshawar Zalmi,Peshawar Zalmi,field,Deccan Chargers,runs,33,N,NA,RE Koertzen,S Ravi
+501209,Peshawar,2018-04-26,Peshawar Stadium,0,Rajasthan Royals,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,wickets,9,N,NA,Aleem Dar,SS Hazare
+501210,Islamabad,2018-04-27,Islamabad Stadium,0,Islamabad United,Sialkot Tuskers Kerala,Sialkot Tuskers Kerala,field,Sialkot Tuskers Kerala,wickets,8,N,NA,BR Doctrove,PR Reiffel
+501211,Quetta,2018-04-15,Quetta Stadium,0,Multan Sultans,Peshawar Zalmi,Multan Sultans,bat,Multan Sultans,runs,21,N,NA,HDPK Dharmasena,AL Hill
+501212,Lahore,2018-04-16,Lahore Stadium,0,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,8,N,NA,RE Koertzen,S Ravi
+501213,Islamabad,2017-05-16,Islamabad Stadium,0,GUJRANWALA Warriors,Karachi Kings,Karachi Kings,field,Karachi Kings,wickets,3,N,NA,Asad Rauf,AM Saheba
+501214,Rawalpindi,2017-05-17,Rawalpindi Stadium,0,Quetta Gladiators,Rajasthan Royals,Quetta Gladiators,field,Quetta Gladiators,wickets,8,N,NA,Aleem Dar,RB Tiffin
+501215,Sialkot,2017-05-01,Sialkot Stadium,0,Sialkot Tuskers Kerala,Multan Sultans,Sialkot Tuskers Kerala,field,Sialkot Tuskers Kerala,wickets,7,N,D/L,K Hariharan,AL Hill
+501216,Karachi,2017-04-20,Karachi Stadium,0,Karachi Kings,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,16,N,NA,PR Reiffel,RJ Tucker
+501218,Islamabad,2017-04-08,Islamabad Stadium,0,Islamabad United,GUJRANWALA Warriors,GUJRANWALA Warriors,bat,Islamabad United,wickets,7,N,NA,Asad Rauf,AM Saheba
+501219,Rawalpindi,2017-04-08,Rawalpindi Stadium,0,Quetta Gladiators,Sialkot Tuskers Kerala,Quetta Gladiators,field,Sialkot Tuskers Kerala,runs,6,N,NA,Aleem Dar,RB Tiffin
+501220,Peshawar,2016-05-18,Peshawar Stadium,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,48,N,NA,S Asnani,PR Reiffel
+501221,Islamabad,2016-05-05,Islamabad Stadium,0,Islamabad United,Multan Sultans,Multan Sultans,field,Islamabad United,runs,8,N,NA,Asad Rauf,AM Saheba
+501222,Rawalpindi,2016-05-06,Rawalpindi Stadium,0,Quetta Gladiators,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,wickets,9,N,NA,SS Hazare,RB Tiffin
+501223,Karachi,2016-04-23,Karachi Stadium,0,Karachi Kings,Kings XI Punjab,Kings XI Punjab,field,Karachi Kings,runs,29,N,NA,S Asnani,RE Koertzen
+501224,Lahore,2016-04-09,Lahore Stadium,0,Deccan Chargers,Islamabad United,Deccan Chargers,field,Islamabad United,runs,37,N,NA,HDPK Dharmasena,AL Hill
+501225,Peshawar,2016-04-10,Peshawar Stadium,0,Rajasthan Royals,Sialkot Tuskers Kerala,Rajasthan Royals,field,Rajasthan Royals,wickets,8,N,NA,BR Doctrove,SK Tarapore
+501226,Quetta,2015-05-11,Quetta Stadium,0,Multan Sultans,GUJRANWALA Warriors,GUJRANWALA Warriors,field,Multan Sultans,runs,25,N,NA,Aleem Dar,RB Tiffin
+501227,Karachi,2015-05-02,Karachi Stadium,0,Karachi Kings,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,wickets,3,N,NA,S Asnani,RJ Tucker
+501228,Islamabad,2015-04-20,Islamabad Stadium,0,GUJRANWALA Warriors,Multan Sultans,GUJRANWALA Warriors,bat,Multan Sultans,wickets,8,N,NA,Asad Rauf,SL Shastri
+501229,Sialkot,2015-04-21,Sialkot Stadium,0,Sialkot Tuskers Kerala,Deccan Chargers,Sialkot Tuskers Kerala,field,Deccan Chargers,runs,55,N,NA,HDPK Dharmasena,AL Hill
+501230,Karachi,2015-04-11,Karachi Stadium,0,Karachi Kings,Quetta Gladiators,Karachi Kings,field,Quetta Gladiators,runs,17,N,NA,PR Reiffel,RJ Tucker
+501231,Peshawar,2014-05-21,Peshawar Stadium,0,Rajasthan Royals,Islamabad United,Rajasthan Royals,field,Rajasthan Royals,wickets,7,N,NA,Asad Rauf,SK Tarapore
+501232,Multan,2014-05-22,Multan Stadium,0,Peshawar Zalmi,GUJRANWALA Warriors,GUJRANWALA Warriors,field,Peshawar Zalmi,runs,26,N,NA,Aleem Dar,SS Hazare
+501233,Sialkot,2014-05-06,Sialkot Stadium,0,Sialkot Tuskers Kerala,Karachi Kings,Karachi Kings,bat,Karachi Kings,runs,38,N,NA,HDPK Dharmasena,AL Hill
+501234,Rawalpindi,2014-05-07,Rawalpindi Stadium,0,Quetta Gladiators,Kings XI Punjab,Quetta Gladiators,field,Quetta Gladiators,wickets,8,N,NA,AM Saheba,SL Shastri
+501235,Peshawar,2013-04-27,Peshawar Stadium,0,Rajasthan Royals,GUJRANWALA Warriors,Rajasthan Royals,field,Rajasthan Royals,wickets,6,N,NA,SK Tarapore,SJA Taufel
+501236,Quetta,2013-04-28,Quetta Stadium,0,Multan Sultans,Deccan Chargers,Multan Sultans,bat,Multan Sultans,runs,19,N,NA,Aleem Dar,RB Tiffin
+501237,Islamabad,2011-04-27,Islamabad Stadium,0,Islamabad United,Kings XI Punjab,Kings XI Punjab,field,Islamabad United,runs,23,N,NA,HDPK Dharmasena,PR Reiffel
+501238,Karachi,2011-04-27,Karachi Stadium,0,Karachi Kings,Sialkot Tuskers Kerala,Sialkot Tuskers Kerala,field,Sialkot Tuskers Kerala,wickets,7,N,NA,Asad Rauf,SL Shastri
+501239,Lahore,2010-03-14,Lahore Stadium,0,Deccan Chargers,Quetta Gladiators,Deccan Chargers,field,Quetta Gladiators,runs,20,N,NA,S Asnani,RJ Tucker
+501240,Quetta,2009-05-15,Quetta Stadium,0,Multan Sultans,Rajasthan Royals,Rajasthan Royals,bat,Multan Sultans,wickets,8,N,NA,SS Hazare,RB Tiffin
+501241,Islamabad,2009-05-16,Islamabad Stadium,0,GUJRANWALA Warriors,Islamabad United,GUJRANWALA Warriors,field,Islamabad United,runs,21,N,NA,HDPK Dharmasena,SJA Taufel
+501242,Sialkot,2009-05-05,Sialkot Stadium,0,Sialkot Tuskers Kerala,Quetta Gladiators,Quetta Gladiators,field,Sialkot Tuskers Kerala,runs,17,N,NA,S Ravi,RJ Tucker
+501243,Lahore,2009-05-06,Lahore Stadium,0,Deccan Chargers,Karachi Kings,Karachi Kings,field,Karachi Kings,wickets,4,N,NA,Asad Rauf,AM Saheba
+501244,Multan,2009-04-26,Multan Stadium,0,Peshawar Zalmi,Kings XI Punjab,Kings XI Punjab,field,Peshawar Zalmi,runs,85,N,NA,Aleem Dar,RB Tiffin
+501245,Rawalpindi,2008-05-30,Rawalpindi Stadium,0,Quetta Gladiators,Multan Sultans,Multan Sultans,bat,Quetta Gladiators,runs,10,N,D/L,Asad Rauf,PR Reiffel
+501246,Islamabad,2008-05-31,Islamabad Stadium,0,Islamabad United,Karachi Kings,Karachi Kings,field,Islamabad United,runs,32,N,NA,K Hariharan,SJA Taufel
+501247,Multan,2008-05-28,Multan Stadium,0,Peshawar Zalmi,Sialkot Tuskers Kerala,Sialkot Tuskers Kerala,bat,Peshawar Zalmi,wickets,9,N,NA,Aleem Dar,SS Hazare
+501248,Peshawar,2008-05-15,Peshawar Stadium,0,Kings XI Punjab,GUJRANWALA Warriors,Kings XI Punjab,bat,GUJRANWALA Warriors,wickets,5,N,NA,SK Tarapore,RJ Tucker
+501249,Peshawar,2008-05-04,Peshawar Stadium,0,Rajasthan Royals,Multan Sultans,Rajasthan Royals,field,Multan Sultans,runs,63,N,NA,K Hariharan,SJA Taufel
+501250,Lahore,2013-04-16,Lahore Stadium,0,Deccan Chargers,GUJRANWALA Warriors,Deccan Chargers,bat,GUJRANWALA Warriors,wickets,6,N,NA,Asad Rauf,AM Saheba
+501251,Peshawar,2013-04-16,Peshawar Stadium,0,Kings XI Punjab,Islamabad United,Islamabad United,field,Kings XI Punjab,runs,76,N,NA,SK Tarapore,RJ Tucker
+501252,Peshawar,2013-04-06,Peshawar Stadium,0,Rajasthan Royals,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,wickets,9,N,NA,HDPK Dharmasena,K Hariharan
+501253,Quetta,2012-05-17,Quetta Stadium,0,Multan Sultans,Karachi Kings,Multan Sultans,bat,Multan Sultans,runs,18,N,NA,AM Saheba,SL Shastri
+501254,GUJRANWALA,2012-05-08,Gujranwala Stadium,0,Sialkot Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,S Asnani,RJ Tucker
+501255,Multan,2012-04-27,Multan Stadium,0,Peshawar Zalmi,Quetta Gladiators,Peshawar Zalmi,field,Peshawar Zalmi,wickets,4,N,D/L,RE Koertzen,RB Tiffin
+501256,Islamabad,2012-04-28,Islamabad Stadium,0,Islamabad United,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,10,N,NA,S Ravi,SK Tarapore
+501257,Sialkot,2012-04-15,Sialkot Stadium,0,Kings XI Punjab,Karachi Kings,Karachi Kings,field,Kings XI Punjab,runs,29,N,NA,Asad Rauf,SL Shastri
+501258,GUJRANWALA,2012-04-16,Gujranwala Stadium,0,Sialkot Tuskers Kerala,Rajasthan Royals,Sialkot Tuskers Kerala,field,Sialkot Tuskers Kerala,wickets,8,N,NA,PR Reiffel,RJ Tucker
+501259,Islamabad,2012-04-08,Islamabad Stadium,0,GUJRANWALA Warriors,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,6,N,NA,S Ravi,SK Tarapore
+501260,Sialkot,2011-05-22,Sialkot Stadium,0,Kings XI Punjab,Peshawar Zalmi,Kings XI Punjab,bat,Kings XI Punjab,runs,111,N,NA,Asad Rauf,AM Saheba
+501261,Quetta,2011-05-13,Quetta Stadium,0,Multan Sultans,Sialkot Tuskers Kerala,Multan Sultans,bat,Multan Sultans,runs,11,N,NA,HDPK Dharmasena,RE Koertzen
+501262,Islamabad,2011-05-06,Islamabad Stadium,0,GUJRANWALA Warriors,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,wickets,7,N,NA,S Ravi,SJA Taufel
+501263,Islamabad,2011-04-17,Islamabad Stadium,0,Islamabad United,Rajasthan Royals,Islamabad United,bat,Rajasthan Royals,wickets,10,N,NA,RE Koertzen,PR Reiffel
+501264,Sialkot,2011-04-09,Sialkot Stadium,0,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,field,Deccan Chargers,runs,82,N,NA,Asad Rauf,AM Saheba
+501265,Karachi,2011-04-09,Karachi Stadium,0,Karachi Kings,GUJRANWALA Warriors,Karachi Kings,bat,NA,NA,NA,NA,NA,SS Hazare,RJ Tucker
+501266,Multan,2010-04-18,Multan Stadium,0,Peshawar Zalmi,Multan Sultans,Peshawar Zalmi,field,Peshawar Zalmi,wickets,8,N,NA,K Hariharan,RE Koertzen
+501267,Rawalpindi,2010-04-18,Rawalpindi Stadium,0,Quetta Gladiators,Islamabad United,Islamabad United,field,Islamabad United,wickets,5,N,NA,SK Tarapore,SJA Taufel
+501268,Islamabad,2010-04-05,Islamabad Stadium,0,Peshawar Zalmi,Multan Sultans,Multan Sultans,field,Multan Sultans,wickets,6,N,NA,Asad Rauf,SJA Taufel
+501269,Islamabad,2010-03-31,Islamabad Stadium,0,Islamabad United,Quetta Gladiators,Islamabad United,field,Islamabad United,wickets,4,N,NA,Asad Rauf,SJA Taufel
+501270,Quetta,2010-03-24,Quetta Stadium,0,Peshawar Zalmi,Islamabad United,Islamabad United,field,Peshawar Zalmi,runs,43,N,NA,Asad Rauf,SJA Taufel
+501271,Quetta,2010-03-19,Quetta Stadium,0,Multan Sultans,Peshawar Zalmi,Multan Sultans,bat,Multan Sultans,runs,58,N,NA,Asad Rauf,SJA Taufel
+548306,Quetta,2014-04-26,Quetta Stadium,0,Multan Sultans,Islamabad United,Islamabad United,field,Islamabad United,wickets,8,N,NA,JD Cloete,SJA Taufel
+548307,Rawalpindi,2014-04-23,Rawalpindi Stadium,0,Quetta Gladiators,Karachi Kings,Karachi Kings,field,Karachi Kings,wickets,8,N,NA,S Asnani,HDPK Dharmasena
+548308,Islamabad,2014-04-18,Islamabad Stadium,0,Islamabad United,GUJRANWALA Warriors,Islamabad United,field,GUJRANWALA Warriors,runs,28,N,NA,AK Chaudhary,SJA Taufel
+548309,Peshawar,2014-04-19,Peshawar Stadium,0,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Rajasthan Royals,runs,31,N,NA,BF Bowden,SK Tarapore
+548310,Multan,2013-05-18,Multan Stadium,0,Peshawar Zalmi,Karachi Kings,Karachi Kings,field,Peshawar Zalmi,runs,20,N,NA,S Asnani,S Ravi
+548311,GUJRANWALA,2013-05-19,Gujranwala Stadium,0,Deccan Chargers,Multan Sultans,Deccan Chargers,field,Multan Sultans,runs,74,N,NA,JD Cloete,HDPK Dharmasena
+548312,Peshawar,2013-05-12,Peshawar Stadium,0,Rajasthan Royals,Quetta Gladiators,Quetta Gladiators,field,Rajasthan Royals,runs,22,N,NA,BF Bowden,VA Kulkarni
+548313,GUJRANWALA,2013-04-23,Gujranwala Stadium,0,GUJRANWALA Warriors,Kings XI Punjab,GUJRANWALA Warriors,bat,GUJRANWALA Warriors,runs,22,N,NA,S Das,SJA Taufel
+548314,GUJRANWALA,2013-05-05,Gujranwala Stadium,0,Deccan Chargers,Islamabad United,Deccan Chargers,bat,Islamabad United,wickets,5,N,NA,AK Chaudhary,JD Cloete
+548315,Multan,2019-04-10,Multan Stadium,0,Peshawar Zalmi,Quetta Gladiators,Peshawar Zalmi,field,Quetta Gladiators,runs,42,N,NA,S Ravi,RJ Tucker
+548316,Karachi,2019-04-11,Karachi Stadium,0,Karachi Kings,Multan Sultans,Karachi Kings,field,Karachi Kings,wickets,8,N,NA,Asad Rauf,SK Tarapore
+548317,Islamabad,2019-04-02,Islamabad Stadium,0,Islamabad United,Rajasthan Royals,Rajasthan Royals,field,Islamabad United,runs,27,N,NA,Aleem Dar,BNJ Oxenford
+548318,Quetta,2019-03-23,Quetta Stadium,0,Multan Sultans,Peshawar Zalmi,Peshawar Zalmi,bat,Multan Sultans,wickets,5,N,NA,HDPK Dharmasena,RJ Tucker
+548319,Peshawar,2019-03-24,Peshawar Stadium,0,Kings XI Punjab,GUJRANWALA Warriors,Kings XI Punjab,field,Kings XI Punjab,wickets,7,N,NA,VA Kulkarni,SK Tarapore
+548320,Rawalpindi,2018-05-15,Rawalpindi Stadium,0,Quetta Gladiators,Rajasthan Royals,Rajasthan Royals,bat,Quetta Gladiators,wickets,5,N,NA,Asad Rauf,S Asnani
+548321,Karachi,2017-04-18,Karachi Stadium,0,Karachi Kings,Deccan Chargers,Deccan Chargers,bat,Karachi Kings,wickets,5,N,NA,BF Bowden,SK Tarapore
+548322,GUJRANWALA,2018-05-06,Gujranwala Stadium,0,GUJRANWALA Warriors,Multan Sultans,Multan Sultans,bat,GUJRANWALA Warriors,wickets,7,N,NA,Aleem Dar,BNJ Oxenford
+548323,Rawalpindi,2018-04-24,Rawalpindi Stadium,0,Quetta Gladiators,Kings XI Punjab,Quetta Gladiators,field,Kings XI Punjab,runs,2,N,NA,Asad Rauf,S Asnani
+548324,Multan,2018-04-25,Multan Stadium,0,Peshawar Zalmi,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,59,N,NA,JD Cloete,RJ Tucker
+548325,Islamabad,2018-04-15,Islamabad Stadium,0,Islamabad United,Karachi Kings,Karachi Kings,field,Karachi Kings,wickets,7,N,NA,BF Bowden,SK Tarapore
+548326,Peshawar,2017-05-14,Peshawar Stadium,0,Rajasthan Royals,Deccan Chargers,Deccan Chargers,bat,Rajasthan Royals,wickets,5,N,NA,Aleem Dar,BNJ Oxenford
+548327,Multan,2017-05-14,Multan Stadium,0,Peshawar Zalmi,GUJRANWALA Warriors,GUJRANWALA Warriors,bat,Peshawar Zalmi,wickets,6,N,NA,S Asnani,S Das
+548328,Peshawar,2017-05-01,Peshawar Stadium,0,Kings XI Punjab,Quetta Gladiators,Kings XI Punjab,bat,Quetta Gladiators,wickets,8,N,NA,JD Cloete,RJ Tucker
+548329,Lahore,2013-04-14,Lahore Stadium,0,Deccan Chargers,Karachi Kings,Deccan Chargers,bat,Karachi Kings,wickets,9,N,NA,JD Cloete,SJA Taufel
+548330,Quetta,2017-04-19,Quetta Stadium,0,Multan Sultans,GUJRANWALA Warriors,GUJRANWALA Warriors,field,Multan Sultans,runs,13,N,NA,Asad Rauf,S Das
+548331,Peshawar,2017-04-07,Peshawar Stadium,0,Kings XI Punjab,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,wickets,5,N,NA,S Ravi,RJ Tucker
+548332,Quetta,2016-05-16,Quetta Stadium,0,Multan Sultans,Rajasthan Royals,Rajasthan Royals,bat,Multan Sultans,wickets,7,N,NA,Aleem Dar,BNJ Oxenford
+548333,Karachi,2016-05-17,Karachi Stadium,0,Karachi Kings,GUJRANWALA Warriors,Karachi Kings,field,GUJRANWALA Warriors,runs,20,N,NA,Asad Rauf,S Das
+548334,Islamabad,2016-05-03,Islamabad Stadium,0,Islamabad United,Kings XI Punjab,Islamabad United,bat,Kings XI Punjab,wickets,6,N,NA,S Ravi,RJ Tucker
+548335,Cuttack,2016-05-04,Barabati Stadium,0,Deccan Chargers,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,wickets,5,N,NA,BF Bowden,SK Tarapore
+548336,Peshawar,2016-04-22,Peshawar Stadium,0,Rajasthan Royals,Peshawar Zalmi,Rajasthan Royals,field,Peshawar Zalmi,runs,46,N,NA,Asad Rauf,S Asnani
+548337,GUJRANWALA,2015-05-24,Gujranwala Stadium,0,GUJRANWALA Warriors,Karachi Kings,GUJRANWALA Warriors,bat,Karachi Kings,wickets,8,N,NA,S Ravi,RJ Tucker
+548339,Peshawar,2015-05-10,Peshawar Stadium,0,Kings XI Punjab,Islamabad United,Kings XI Punjab,bat,Islamabad United,wickets,4,N,NA,Aleem Dar,BNJ Oxenford
+548341,GUJRANWALA,2015-05-01,Gujranwala Stadium,0,GUJRANWALA Warriors,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,18,N,NA,S Ravi,RJ Tucker
+548342,Karachi,2015-04-19,Karachi Stadium,0,Karachi Kings,Islamabad United,Islamabad United,field,Karachi Kings,runs,37,N,NA,Aleem Dar,BNJ Oxenford
+548343,Quetta,2015-04-10,Quetta Stadium,0,Multan Sultans,Kings XI Punjab,Kings XI Punjab,bat,Kings XI Punjab,runs,7,N,NA,BF Bowden,SK Tarapore
+548344,Rawalpindi,2015-04-11,Rawalpindi Stadium,0,Quetta Gladiators,Peshawar Zalmi,Quetta Gladiators,bat,Quetta Gladiators,runs,47,N,NA,Asad Rauf,BR Doctrove
+548345,Karachi,2014-05-20,Karachi Stadium,0,Karachi Kings,Rajasthan Royals,Karachi Kings,bat,Karachi Kings,runs,1,N,NA,S Ravi,RJ Tucker
+548346,Islamabad,2014-05-20,Islamabad Stadium,0,Islamabad United,Deccan Chargers,Islamabad United,field,Islamabad United,wickets,5,N,NA,AK Chaudhary,BNJ Oxenford
+548347,Quetta,2014-05-05,Quetta Stadium,0,Multan Sultans,Quetta Gladiators,Multan Sultans,bat,Quetta Gladiators,wickets,5,N,NA,BF Bowden,C Shamshuddin
+548348,Cuttack,2013-04-26,Barabati Stadium,0,Deccan Chargers,GUJRANWALA Warriors,Deccan Chargers,bat,Deccan Chargers,runs,13,N,NA,Aleem Dar,AK Chaudhary
+548349,Peshawar,2013-04-27,Peshawar Stadium,0,Rajasthan Royals,Karachi Kings,Rajasthan Royals,bat,Karachi Kings,wickets,6,N,NA,JD Cloete,SJA Taufel
+548350,Multan,2011-04-26,Multan Stadium,0,Peshawar Zalmi,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,4,N,NA,BF Bowden,C Shamshuddin
+548351,GUJRANWALA,2010-03-14,Gujranwala Stadium,0,GUJRANWALA Warriors,Islamabad United,Islamabad United,bat,Islamabad United,runs,1,N,NA,Asad Rauf,S Asnani
+548352,Quetta,2009-05-14,Quetta Stadium,0,Multan Sultans,Deccan Chargers,Multan Sultans,bat,Multan Sultans,runs,10,N,NA,HDPK Dharmasena,BNJ Oxenford
+548353,Rawalpindi,2009-05-04,Rawalpindi Stadium,0,Quetta Gladiators,GUJRANWALA Warriors,Quetta Gladiators,bat,Quetta Gladiators,runs,7,N,NA,BF Bowden,SK Tarapore
+548354,Peshawar,2009-05-05,Peshawar Stadium,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,43,N,NA,JD Cloete,SJA Taufel
+548355,Islamabad,2009-04-25,Islamabad Stadium,0,Islamabad United,Multan Sultans,Islamabad United,field,Islamabad United,wickets,2,N,NA,Asad Rauf,S Asnani
+548356,Multan,2009-04-26,Multan Stadium,0,Peshawar Zalmi,Deccan Chargers,Peshawar Zalmi,field,Peshawar Zalmi,wickets,5,N,NA,HDPK Dharmasena,BNJ Oxenford
+548357,Karachi,2008-05-27,Karachi Stadium,0,Karachi Kings,Quetta Gladiators,Karachi Kings,bat,Quetta Gladiators,wickets,6,N,NA,JD Cloete,S Ravi
+548358,GUJRANWALA,2008-05-13,Gujranwala Stadium,0,GUJRANWALA Warriors,Rajasthan Royals,GUJRANWALA Warriors,bat,Rajasthan Royals,wickets,7,N,NA,Asad Rauf,BR Doctrove
+548359,Lahore,2008-05-14,Lahore Stadium,0,Deccan Chargers,Kings XI Punjab,Deccan Chargers,field,Kings XI Punjab,runs,25,N,NA,HDPK Dharmasena,BNJ Oxenford
+548360,Islamabad,2008-05-04,Islamabad Stadium,0,Islamabad United,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,wickets,9,N,NA,BF Bowden,VA Kulkarni
+548361,Peshawar,2013-04-15,Peshawar Stadium,0,Rajasthan Royals,Multan Sultans,Multan Sultans,field,Multan Sultans,wickets,4,N,NA,BNJ Oxenford,C Shamshuddin
+548362,GUJRANWALA,2013-04-05,Gujranwala Stadium,0,GUJRANWALA Warriors,Peshawar Zalmi,GUJRANWALA Warriors,field,Peshawar Zalmi,runs,35,N,NA,BF Bowden,SK Tarapore
+548363,Rawalpindi,2012-05-16,Rawalpindi Stadium,0,Quetta Gladiators,Islamabad United,Islamabad United,bat,Islamabad United,runs,27,N,NA,S Ravi,SJA Taufel
+548364,Quetta,2012-05-17,Quetta Stadium,0,Multan Sultans,Karachi Kings,Multan Sultans,field,Multan Sultans,wickets,9,N,NA,S Das,BR Doctrove
+548365,Peshawar,2012-05-06,Peshawar Stadium,0,Rajasthan Royals,GUJRANWALA Warriors,Rajasthan Royals,bat,Rajasthan Royals,runs,45,N,NA,BF Bowden,SK Tarapore
+548366,Peshawar,2012-05-07,Peshawar Stadium,0,Kings XI Punjab,Deccan Chargers,Deccan Chargers,bat,Kings XI Punjab,wickets,4,N,NA,HDPK Dharmasena,BNJ Oxenford
+548367,Multan,2012-04-25,Multan Stadium,0,Peshawar Zalmi,Islamabad United,Islamabad United,field,Islamabad United,wickets,5,N,NA,S Das,BR Doctrove
+548368,Rawalpindi,2012-04-26,Rawalpindi Stadium,0,Quetta Gladiators,Multan Sultans,Multan Sultans,field,Multan Sultans,wickets,5,N,NA,JD Cloete,SJA Taufel
+548369,Karachi,2012-04-15,Karachi Stadium,0,Karachi Kings,Kings XI Punjab,Kings XI Punjab,bat,Karachi Kings,wickets,5,N,NA,HDPK Dharmasena,BNJ Oxenford
+548370,Islamabad,2012-04-07,Islamabad Stadium,0,Islamabad United,Quetta Gladiators,Islamabad United,field,Quetta Gladiators,runs,32,N,NA,S Das,BR Doctrove
+548371,Sialkot,2011-05-21,Sialkot Stadium,0,Kings XI Punjab,Multan Sultans,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,VA Kulkarni,SK Tarapore
+548372,Karachi,2011-05-21,Karachi Stadium,0,Karachi Kings,Peshawar Zalmi,Karachi Kings,field,Peshawar Zalmi,runs,21,N,NA,HDPK Dharmasena,C Shamshuddin
+548373,Lahore,2011-05-12,Lahore Stadium,0,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,bat,Deccan Chargers,wickets,5,N,NA,S Ravi,SJA Taufel
+548374,Sialkot,2011-05-05,Sialkot Stadium,0,Kings XI Punjab,Karachi Kings,Karachi Kings,field,Karachi Kings,wickets,6,N,NA,BF Bowden,VA Kulkarni
+548375,GUJRANWALA,2011-05-05,Gujranwala Stadium,0,GUJRANWALA Warriors,Quetta Gladiators,Quetta Gladiators,bat,Quetta Gladiators,runs,34,N,NA,S Asnani,BR Doctrove
+548376,Lahore,2011-04-16,Lahore Stadium,0,Deccan Chargers,Peshawar Zalmi,Peshawar Zalmi,field,Deccan Chargers,runs,9,N,NA,S Ravi,SJA Taufel
+548377,Peshawar,2011-04-16,Peshawar Stadium,0,Rajasthan Royals,Islamabad United,Rajasthan Royals,bat,Islamabad United,wickets,10,N,NA,HDPK Dharmasena,C Shamshuddin
+548378,GUJRANWALA,2010-04-17,Gujranwala Stadium,0,Karachi Kings,Quetta Gladiators,Quetta Gladiators,bat,Quetta Gladiators,runs,18,N,NA,BR Doctrove,SJA Taufel
+548379,Multan,2010-04-10,Multan Stadium,0,Multan Sultans,Islamabad United,Islamabad United,field,Multan Sultans,runs,38,N,NA,BF Bowden,HDPK Dharmasena
+548380,Quetta,2010-03-30,Quetta Stadium,0,Karachi Kings,Multan Sultans,Karachi Kings,field,Multan Sultans,runs,86,N,NA,BR Doctrove,SJA Taufel
+548381,Quetta,2010-03-23,Quetta Stadium,0,Quetta Gladiators,Multan Sultans,Multan Sultans,bat,Quetta Gladiators,wickets,5,N,NA,BF Bowden,SJA Taufel
+597998,Rawalpindi,2014-05-10,Rawalpindi Stadium,0,Quetta Gladiators,Karachi Kings,Quetta Gladiators,field,Quetta Gladiators,wickets,6,N,NA,S Ravi,SJA Taufel
+597999,Multan,2014-04-25,Multan Stadium,0,Peshawar Zalmi,Islamabad United,Islamabad United,field,Peshawar Zalmi,runs,2,N,NA,VA Kulkarni,C Shamshuddin
+598000,Lahore,2014-04-22,Lahore Stadium,0,Lahore Qalandars,GUJRANWALA Warriors,GUJRANWALA Warriors,field,Lahore Qalandars,runs,22,N,NA,S Ravi,SJA Taufel
+598001,Karachi,2014-04-17,Karachi Stadium,0,Karachi Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,5,N,NA,S Das,C Shamshuddin
+598002,Quetta,2014-04-18,Quetta Stadium,0,Multan Sultans,Islamabad United,Islamabad United,bat,Islamabad United,runs,9,N,NA,M Erasmus,VA Kulkarni
+598003,GUJRANWALA,2013-05-18,Gujranwala Stadium,0,GUJRANWALA Warriors,Kings XI Punjab,GUJRANWALA Warriors,bat,Kings XI Punjab,wickets,8,N,NA,S Asnani,SJA Taufel
+598004,Lahore,2013-05-19,Lahore Stadium,0,Lahore Qalandars,Peshawar Zalmi,Peshawar Zalmi,bat,Lahore Qalandars,tie,NA,Y,NA,AK Chaudhary,S Ravi
+598005,Peshawar,2013-05-12,Peshawar Stadium,0,Rajasthan Royals,Quetta Gladiators,Quetta Gladiators,field,Rajasthan Royals,runs,19,N,NA,Aleem Dar,S Das
+598006,Islamabad,2013-05-14,Islamabad Stadium,0,Islamabad United,Karachi Kings,Islamabad United,bat,Islamabad United,runs,44,N,NA,M Erasmus,VA Kulkarni
+598007,Peshawar,2019-04-09,Peshawar Stadium,0,Kings XI Punjab,Multan Sultans,Multan Sultans,field,Multan Sultans,wickets,10,N,NA,Aleem Dar,C Shamshuddin
+598008,Multan,2019-03-31,Multan Stadium,0,Peshawar Zalmi,Quetta Gladiators,Peshawar Zalmi,field,Peshawar Zalmi,wickets,8,N,NA,Asad Rauf,AK Chaudhary
+598009,GUJRANWALA,2019-04-01,Gujranwala Stadium,0,GUJRANWALA Warriors,Rajasthan Royals,Rajasthan Royals,bat,GUJRANWALA Warriors,wickets,7,N,NA,M Erasmus,K Srinath
+598010,Karachi,2018-05-27,Karachi Stadium,0,Karachi Kings,Lahore Qalandars,Karachi Kings,bat,Lahore Qalandars,wickets,3,N,NA,Aleem Dar,Subroto Das
+598011,Islamabad,2018-05-13,Islamabad Stadium,0,Islamabad United,GUJRANWALA Warriors,Islamabad United,bat,Islamabad United,runs,41,N,NA,S Ravi,SJA Taufel
+598012,Quetta,2018-05-14,Quetta Stadium,0,Multan Sultans,Peshawar Zalmi,Multan Sultans,field,Multan Sultans,wickets,4,N,NA,Asad Rauf,AK Chaudhary
+598013,Rawalpindi,2018-05-05,Rawalpindi Stadium,0,Quetta Gladiators,Lahore Qalandars,Quetta Gladiators,bat,Quetta Gladiators,runs,48,N,NA,M Erasmus,VA Kulkarni
+598014,Peshawar,2018-05-06,Peshawar Stadium,0,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,field,Rajasthan Royals,wickets,6,N,NA,Aleem Dar,C Shamshuddin
+598015,Quetta,2018-04-23,Quetta Stadium,0,Multan Sultans,GUJRANWALA Warriors,GUJRANWALA Warriors,bat,GUJRANWALA Warriors,runs,24,N,NA,Asad Rauf,AK Chaudhary
+598016,Peshawar,2018-04-14,Peshawar Stadium,0,Kings XI Punjab,Quetta Gladiators,Quetta Gladiators,field,Kings XI Punjab,runs,4,N,NA,CK Nandan,SJA Taufel
+598017,Multan,2018-04-14,Multan Stadium,0,Peshawar Zalmi,Karachi Kings,Peshawar Zalmi,field,Peshawar Zalmi,tie,NA,Y,NA,M Erasmus,VA Kulkarni
+598018,GUJRANWALA,2017-05-13,Gujranwala Stadium,0,GUJRANWALA Warriors,Lahore Qalandars,GUJRANWALA Warriors,field,Lahore Qalandars,runs,11,N,NA,Asad Rauf,AK Chaudhary
+598019,Peshawar,2017-05-13,Peshawar Stadium,0,Rajasthan Royals,Islamabad United,Rajasthan Royals,bat,Rajasthan Royals,runs,87,N,NA,Aleem Dar,C Shamshuddin
+598020,Karachi,2017-04-30,Karachi Stadium,0,Karachi Kings,Multan Sultans,Multan Sultans,bat,Multan Sultans,runs,86,N,NA,M Erasmus,VA Kulkarni
+598021,Lahore,2017-04-17,Lahore Stadium,0,Lahore Qalandars,Kings XI Punjab,Kings XI Punjab,bat,Lahore Qalandars,wickets,5,N,NA,HDPK Dharmasena,CK Nandan
+598022,Rawalpindi,2017-04-05,Rawalpindi Stadium,0,Quetta Gladiators,Multan Sultans,Quetta Gladiators,bat,Multan Sultans,wickets,4,N,NA,Asad Rauf,AK Chaudhary
+598023,Multan,2017-04-06,Multan Stadium,0,Peshawar Zalmi,Rajasthan Royals,Peshawar Zalmi,field,Peshawar Zalmi,wickets,7,N,NA,Aleem Dar,C Shamshuddin
+598024,Karachi,2016-05-15,Karachi Stadium,0,Karachi Kings,Islamabad United,Islamabad United,bat,Karachi Kings,wickets,9,N,NA,HDPK Dharmasena,S Ravi
+598025,Peshawar,2016-05-15,Peshawar Stadium,0,Kings XI Punjab,GUJRANWALA Warriors,Kings XI Punjab,field,Kings XI Punjab,wickets,7,N,NA,M Erasmus,K Srinath
+598026,Quetta,2016-05-02,Quetta Stadium,0,Multan Sultans,Rajasthan Royals,Rajasthan Royals,bat,Multan Sultans,wickets,5,N,NA,S Asnani,AK Chaudhary
+598027,Multan,2016-04-20,Multan Stadium,0,Peshawar Zalmi,GUJRANWALA Warriors,GUJRANWALA Warriors,field,Peshawar Zalmi,runs,130,N,NA,Aleem Dar,C Shamshuddin
+598028,Sialkot,2012-04-07,Sialkot Stadium,0,Kings XI Punjab,Karachi Kings,Karachi Kings,field,Kings XI Punjab,runs,7,N,NA,HDPK Dharmasena,S Ravi
+598029,Rawalpindi,2015-05-22,Rawalpindi Stadium,0,Quetta Gladiators,Islamabad United,Quetta Gladiators,bat,Islamabad United,wickets,5,N,NA,HDPK Dharmasena,S Ravi
+598030,Quetta,2015-05-10,Quetta Stadium,0,Multan Sultans,Lahore Qalandars,Lahore Qalandars,bat,Multan Sultans,wickets,5,N,NA,Aleem Dar,S Das
+598031,Rawalpindi,2015-05-01,Rawalpindi Stadium,0,Quetta Gladiators,Kings XI Punjab,Kings XI Punjab,bat,Quetta Gladiators,wickets,6,N,NA,CK Nandan,S Ravi
+598032,Peshawar,2015-04-18,Peshawar Stadium,0,Rajasthan Royals,Lahore Qalandars,Lahore Qalandars,bat,Rajasthan Royals,wickets,8,N,NA,VA Kulkarni,K Srinath
+598033,Islamabad,2015-04-19,Islamabad Stadium,0,Islamabad United,Peshawar Zalmi,Islamabad United,bat,Islamabad United,runs,58,N,NA,Asad Rauf,S Asnani
+598034,Quetta,2015-04-08,Quetta Stadium,0,Multan Sultans,Quetta Gladiators,Quetta Gladiators,field,Multan Sultans,runs,14,N,NA,Aleem Dar,SJA Taufel
+598035,GUJRANWALA,2015-04-09,Gujranwala Stadium,0,Karachi Kings,GUJRANWALA Warriors,GUJRANWALA Warriors,field,Karachi Kings,runs,15,N,NA,CK Nandan,S Ravi
+598036,Peshawar,2014-05-19,Peshawar Stadium,0,Rajasthan Royals,Peshawar Zalmi,Rajasthan Royals,field,Rajasthan Royals,wickets,4,N,NA,M Erasmus,K Srinath
+598037,Islamabad,2014-05-19,Islamabad Stadium,0,Islamabad United,Kings XI Punjab,Islamabad United,bat,Islamabad United,runs,4,N,NA,Asad Rauf,AK Chaudhary
+598038,GUJRANWALA,2014-05-05,Gujranwala Stadium,0,GUJRANWALA Warriors,Multan Sultans,Multan Sultans,bat,Multan Sultans,runs,37,N,NA,S Das,SJA Taufel
+598039,Lahore,2013-04-24,Lahore Stadium,0,Lahore Qalandars,Islamabad United,Islamabad United,bat,Lahore Qalandars,wickets,7,N,NA,Asad Rauf,S Asnani
+598040,GUJRANWALA,2013-04-25,Gujranwala Stadium,0,Karachi Kings,Quetta Gladiators,Quetta Gladiators,bat,Karachi Kings,wickets,7,N,NA,HDPK Dharmasena,CK Nandan
+598041,Quetta,2011-04-24,Quetta Stadium,0,Multan Sultans,Kings XI Punjab,Multan Sultans,bat,Multan Sultans,runs,15,N,NA,M Erasmus,VA Kulkarni
+598042,GUJRANWALA,2011-04-25,Gujranwala Stadium,0,GUJRANWALA Warriors,Peshawar Zalmi,Peshawar Zalmi,bat,Peshawar Zalmi,runs,17,N,NA,Aleem Dar,C Shamshuddin
+598043,Rawalpindi,2010-03-13,Rawalpindi Stadium,0,Quetta Gladiators,Rajasthan Royals,Rajasthan Royals,bat,Quetta Gladiators,wickets,8,N,NA,HDPK Dharmasena,CK Nandan
+598044,Lahore,2009-05-14,Lahore Stadium,0,Lahore Qalandars,Karachi Kings,Karachi Kings,bat,Lahore Qalandars,wickets,6,N,NA,Asad Rauf,S Asnani
+598045,Multan,2012-04-23,Multan Stadium,0,Peshawar Zalmi,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,7,N,NA,HDPK Dharmasena,S Ravi
+598046,Islamabad,2009-05-03,Islamabad Stadium,0,Islamabad United,Multan Sultans,Islamabad United,bat,Islamabad United,runs,60,N,NA,HDPK Dharmasena,CK Nandan
+598047,Peshawar,2009-05-03,Peshawar Stadium,0,Rajasthan Royals,GUJRANWALA Warriors,GUJRANWALA Warriors,bat,Rajasthan Royals,wickets,5,N,NA,C Shamshuddin,RJ Tucker
+598048,Multan,2013-05-05,Multan Stadium,0,Peshawar Zalmi,Lahore Qalandars,Lahore Qalandars,bat,Peshawar Zalmi,wickets,7,N,NA,S Ravi,SJA Taufel
+598049,Peshawar,2008-05-25,Peshawar Stadium,0,Rajasthan Royals,Karachi Kings,Karachi Kings,bat,Rajasthan Royals,wickets,9,N,NA,Aleem Dar,RJ Tucker
+598050,Islamabad,2008-05-26,Islamabad Stadium,0,Islamabad United,Quetta Gladiators,Islamabad United,bat,Islamabad United,runs,65,N,NA,HDPK Dharmasena,S Ravi
+598051,Lahore,2008-05-12,Lahore Stadium,0,Lahore Qalandars,Multan Sultans,Lahore Qalandars,field,Multan Sultans,runs,77,N,NA,S Das,NJ Llong
+598052,Peshawar,2008-05-25,Peshawar Stadium,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,8,N,NA,HDPK Dharmasena,S Ravi
+598053,GUJRANWALA,2008-05-03,Gujranwala Stadium,0,GUJRANWALA Warriors,Quetta Gladiators,Quetta Gladiators,bat,Quetta Gladiators,runs,46,N,NA,Asad Rauf,S Asnani
+598054,Karachi,2013-04-14,Karachi Stadium,0,Karachi Kings,Peshawar Zalmi,Karachi Kings,field,Peshawar Zalmi,runs,4,N,NA,NJ Llong,K Srinath
+598055,GUJRANWALA,2013-04-03,Gujranwala Stadium,0,GUJRANWALA Warriors,Islamabad United,GUJRANWALA Warriors,bat,Islamabad United,wickets,5,N,NA,Asad Rauf,AK Chaudhary
+598056,Peshawar,2013-04-04,Peshawar Stadium,0,Kings XI Punjab,Lahore Qalandars,Kings XI Punjab,field,Lahore Qalandars,runs,30,N,NA,S Das,RJ Tucker
+598057,Gujranwala,2012-05-14,Gujranwala Stadium,0,Quetta Gladiators,Peshawar Zalmi,Quetta Gladiators,field,Quetta Gladiators,wickets,5,N,NA,NJ Llong,K Srinath
+598058,Peshawar,2012-05-15,Peshawar Stadium,0,Rajasthan Royals,Multan Sultans,Rajasthan Royals,field,Rajasthan Royals,wickets,5,N,NA,HDPK Dharmasena,CK Nandan
+598059,Karachi,2016-04-21,Karachi Stadium,0,Karachi Kings,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,5,N,NA,VA Kulkarni,K Srinath
+598060,Islamabad,2012-05-06,Islamabad Stadium,0,Islamabad United,Lahore Qalandars,Lahore Qalandars,bat,Islamabad United,wickets,7,N,NA,AK Chaudhary,SJA Taufel
+598061,Gujranwala,2012-04-19,Gujranwala Stadium,0,Quetta Gladiators,GUJRANWALA Warriors,Quetta Gladiators,field,GUJRANWALA Warriors,runs,7,N,NA,NJ Llong,K Srinath
+598062,Quetta,2012-04-24,Quetta Stadium,0,Multan Sultans,Karachi Kings,Multan Sultans,bat,Multan Sultans,runs,33,N,NA,C Shamshuddin,RJ Tucker
+598063,Islamabad,2012-04-14,Islamabad Stadium,0,Islamabad United,Rajasthan Royals,Rajasthan Royals,field,Islamabad United,runs,14,N,NA,Asad Rauf,S Asnani
+598064,Peshawar,2009-04-24,Peshawar Stadium,0,Kings XI Punjab,Peshawar Zalmi,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,VA Kulkarni,NJ Llong
+598065,Lahore,2011-05-20,Lahore Stadium,0,Lahore Qalandars,Rajasthan Royals,Lahore Qalandars,bat,Lahore Qalandars,runs,23,N,NA,Asad Rauf,AK Chaudhary
+598066,Sialkot,2011-05-10,Sialkot Stadium,0,Kings XI Punjab,Islamabad United,Islamabad United,field,Kings XI Punjab,runs,50,N,NA,HDPK Dharmasena,CK Nandan
+598067,GUJRANWALA,2011-05-04,Gujranwala Stadium,0,GUJRANWALA Warriors,Karachi Kings,GUJRANWALA Warriors,bat,GUJRANWALA Warriors,runs,38,N,NA,NJ Llong,SJA Taufel
+598068,Multan,2011-05-11,Multan Stadium,0,Peshawar Zalmi,Multan Sultans,Multan Sultans,field,Peshawar Zalmi,runs,24,N,NA,C Shamshuddin,RJ Tucker
+598069,Lahore,2011-05-04,Lahore Stadium,0,Lahore Qalandars,Quetta Gladiators,Quetta Gladiators,bat,Lahore Qalandars,wickets,5,N,NA,Asad Rauf,S Asnani
+598070,Karachi,2011-04-08,Karachi Stadium,0,Multan Sultans,Islamabad United,Multan Sultans,bat,Multan Sultans,runs,48,N,NA,NJ Llong,RJ Tucker
+598071,Karachi,2010-04-17,Karachi Stadium,0,Rajasthan Royals,Lahore Qalandars,Lahore Qalandars,bat,Rajasthan Royals,wickets,4,N,NA,S Ravi,RJ Tucker
+598072,Rawalpindi,2010-04-04,Rawalpindi Stadium,0,Islamabad United,Rajasthan Royals,Rajasthan Royals,bat,Islamabad United,wickets,4,N,NA,C Shamshuddin,SJA Taufel
+598073,Rawalpindi,2010-03-26,Rawalpindi Stadium,0,Multan Sultans,Islamabad United,Islamabad United,bat,Islamabad United,runs,23,N,NA,HDPK Dharmasena,SJA Taufel
+729279,Abu Dhabi,2018-04-13,Sheikh Zayed Stadium,1,Islamabad United,Quetta Gladiators,Quetta Gladiators,bat,Quetta Gladiators,runs,41,N,NA,M Erasmus,RK Illingworth
+729281,NA,2017-05-12,Sharjah Cricket Stadium,1,Karachi Kings,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,wickets,8,N,NA,Aleem Dar,S Ravi
+729283,Abu Dhabi,2017-04-29,Sheikh Zayed Stadium,1,Multan Sultans,Kings XI Punjab,Multan Sultans,bat,Kings XI Punjab,wickets,6,N,NA,RK Illingworth,C Shamshuddin
+729285,Abu Dhabi,2017-04-30,Sheikh Zayed Stadium,1,Lahore Qalandars,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,4,N,NA,BF Bowden,RK Illingworth
+729287,NA,2017-04-16,Dubai International Cricket Stadium,1,Peshawar Zalmi,Islamabad United,Peshawar Zalmi,field,Peshawar Zalmi,wickets,7,N,NA,Aleem Dar,AK Chaudhary
+729289,NA,2017-04-17,Dubai International Cricket Stadium,1,Quetta Gladiators,Karachi Kings,Quetta Gladiators,bat,Karachi Kings,wickets,4,N,NA,Aleem Dar,VA Kulkarni
+729291,NA,2016-05-29,Sharjah Cricket Stadium,1,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,7,N,NA,BF Bowden,M Erasmus
+729293,Abu Dhabi,2016-05-14,Sheikh Zayed Stadium,1,Multan Sultans,Karachi Kings,Multan Sultans,bat,Multan Sultans,runs,93,N,NA,RK Illingworth,C Shamshuddin
+729295,NA,2016-05-01,Sharjah Cricket Stadium,1,Kings XI Punjab,Lahore Qalandars,Lahore Qalandars,field,Kings XI Punjab,runs,72,N,NA,M Erasmus,S Ravi
+729297,NA,2016-04-19,Dubai International Cricket Stadium,1,Rajasthan Royals,Multan Sultans,Rajasthan Royals,field,Multan Sultans,runs,7,N,NA,HDPK Dharmasena,RK Illingworth
+729299,NA,2015-05-20,Sharjah Cricket Stadium,1,Peshawar Zalmi,Quetta Gladiators,Peshawar Zalmi,field,Quetta Gladiators,runs,2,N,NA,Aleem Dar,VA Kulkarni
+729301,NA,2015-05-09,Dubai International Cricket Stadium,1,Lahore Qalandars,Karachi Kings,Lahore Qalandars,bat,Lahore Qalandars,runs,4,N,NA,M Erasmus,S Ravi
+729303,NA,2015-05-09,Dubai International Cricket Stadium,1,Multan Sultans,Islamabad United,Islamabad United,bat,Multan Sultans,wickets,7,N,NA,BF Bowden,M Erasmus
+729305,Abu Dhabi,2015-04-29,Sheikh Zayed Stadium,1,Rajasthan Royals,Peshawar Zalmi,Rajasthan Royals,field,Rajasthan Royals,wickets,6,N,NA,HDPK Dharmasena,C Shamshuddin
+729307,Abu Dhabi,2015-04-28,Sheikh Zayed Stadium,1,Quetta Gladiators,Kings XI Punjab,Quetta Gladiators,field,Kings XI Punjab,runs,23,N,NA,HDPK Dharmasena,RK Illingworth
+729309,NA,2015-04-17,Sharjah Cricket Stadium,1,Karachi Kings,Islamabad United,Islamabad United,bat,Karachi Kings,wickets,6,N,NA,Aleem Dar,VA Kulkarni
+729311,NA,2015-04-18,Sharjah Cricket Stadium,1,Lahore Qalandars,Multan Sultans,Lahore Qalandars,bat,Multan Sultans,wickets,5,N,NA,AK Chaudhary,VA Kulkarni
+729313,NA,2014-06-01,Dubai International Cricket Stadium,1,Kings XI Punjab,Peshawar Zalmi,Kings XI Punjab,field,Kings XI Punjab,wickets,5,N,NA,BF Bowden,S Ravi
+729315,Abu Dhabi,2014-05-18,Sheikh Zayed Stadium,1,Quetta Gladiators,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,tie,NA,Y,NA,Aleem Dar,AK Chaudhary
+729317,NA,2014-05-04,Dubai International Cricket Stadium,1,Islamabad United,Lahore Qalandars,Islamabad United,field,Lahore Qalandars,runs,15,N,NA,HDPK Dharmasena,M Erasmus
+733971,Gujranwala,2011-04-24,Gujranwala Stadium,0,Multan Sultans,Quetta Gladiators,Multan Sultans,bat,Multan Sultans,runs,34,N,NA,AK Chaudhary,NJ Llong
+733973,Islamabad,2010-03-12,Islamabad Stadium,0,Islamabad United,Kings XI Punjab,Kings XI Punjab,bat,Islamabad United,wickets,5,N,NA,BNJ Oxenford,C Shamshuddin
+733975,Karachi,2010-03-13,Karachi Stadium,0,Karachi Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7,N,NA,SS Hazare,S Ravi
+733977,Multan,2009-05-13,Multan Stadium,0,Peshawar Zalmi,Lahore Qalandars,Peshawar Zalmi,field,Peshawar Zalmi,wickets,4,N,NA,HDPK Dharmasena,VA Kulkarni
+733979,Sialkot,2009-05-02,Sialkot Stadium,0,Rajasthan Royals,Quetta Gladiators,Quetta Gladiators,field,Rajasthan Royals,runs,10,N,NA,NJ Llong,CK Nandan
+733981,Karachi,2009-05-02,Karachi Stadium,0,Karachi Kings,Multan Sultans,Multan Sultans,field,Multan Sultans,wickets,8,N,NA,RM Deshpande,BNJ Oxenford
+733983,Islamabad,2009-04-23,Islamabad Stadium,0,Islamabad United,Peshawar Zalmi,Peshawar Zalmi,field,Islamabad United,runs,19,N,NA,S Ravi,K Srinath
+733985,Karachi,2008-05-24,Karachi Stadium,0,Karachi Kings,Quetta Gladiators,Karachi Kings,bat,Quetta Gladiators,wickets,8,N,NA,BNJ Oxenford,C Shamshuddin
+733987,Cuttack,2008-05-03,Barabati Stadium,0,Kings XI Punjab,Multan Sultans,Multan Sultans,field,Kings XI Punjab,runs,44,N,NA,HDPK Dharmasena,PG Pathak
+733989,Sialkot,2008-05-11,Sialkot Stadium,0,Rajasthan Royals,Lahore Qalandars,Rajasthan Royals,field,Lahore Qalandars,runs,32,N,NA,AK Chaudhary,NJ Llong
+733991,Multan,2008-05-02,Multan Stadium,0,Peshawar Zalmi,Kings XI Punjab,Peshawar Zalmi,field,Kings XI Punjab,runs,32,N,NA,S Ravi,K Srinath
+733993,Karachi,2013-04-13,Karachi Stadium,0,Karachi Kings,Lahore Qalandars,Lahore Qalandars,field,Lahore Qalandars,wickets,8,N,D/L,RM Deshpande,BNJ Oxenford
+733995,Islamabad,2013-04-13,Islamabad Stadium,0,Islamabad United,Multan Sultans,Multan Sultans,field,Multan Sultans,wickets,4,N,NA,HDPK Dharmasena,VA Kulkarni
+733997,Cuttack,2012-05-25,Barabati Stadium,0,Kings XI Punjab,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,wickets,9,N,NA,NJ Llong,CK Nandan
+733999,Multan,2012-05-27,Multan Stadium,0,Peshawar Zalmi,Rajasthan Royals,Peshawar Zalmi,bat,Rajasthan Royals,wickets,5,N,NA,S Ravi,RJ Tucker
+734001,Lahore,2012-05-14,Lahore Stadium,0,Lahore Qalandars,Islamabad United,Lahore Qalandars,bat,Islamabad United,wickets,7,N,NA,HDPK Dharmasena,VA Kulkarni
+734003,Gujranwala,2012-05-05,Gujranwala Stadium,0,Multan Sultans,Rajasthan Royals,Rajasthan Royals,bat,Multan Sultans,wickets,5,N,NA,BNJ Oxenford,C Shamshuddin
+734005,Multan,2012-05-05,Multan Stadium,0,Peshawar Zalmi,Karachi Kings,Karachi Kings,field,Peshawar Zalmi,runs,16,N,NA,K Srinath,RJ Tucker
+734007,Lahore,2012-04-22,Lahore Stadium,0,Lahore Qalandars,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,VA Kulkarni,PG Pathak
+734009,Cuttack,2012-04-22,Barabati Stadium,0,Quetta Gladiators,Islamabad United,Quetta Gladiators,field,Quetta Gladiators,wickets,6,N,NA,AK Chaudhary,NJ Llong
+734011,Sialkot,2012-04-13,Sialkot Stadium,0,Rajasthan Royals,Karachi Kings,Karachi Kings,field,Rajasthan Royals,runs,62,N,NA,S Ravi,RJ Tucker
+734013,Gujranwala,2011-05-09,Gujranwala Stadium,0,Multan Sultans,Peshawar Zalmi,Multan Sultans,bat,Peshawar Zalmi,wickets,5,N,NA,BNJ Oxenford,C Shamshuddin
+734015,Lahore,2011-05-10,Lahore Stadium,0,Lahore Qalandars,Quetta Gladiators,Lahore Qalandars,bat,Quetta Gladiators,wickets,7,N,NA,NJ Llong,CK Nandan
+734017,Sialkot,2011-05-02,Sialkot Stadium,0,Rajasthan Royals,Islamabad United,Islamabad United,bat,Islamabad United,runs,25,N,NA,S Ravi,RJ Tucker
+734019,Karachi,2011-05-03,Karachi Stadium,0,Karachi Kings,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,4,N,NA,HDPK Dharmasena,PG Pathak
+734021,Lahore,2011-04-15,Lahore Stadium,0,Lahore Qalandars,Peshawar Zalmi,Peshawar Zalmi,bat,Lahore Qalandars,wickets,7,N,NA,AK Chaudhary,NJ Llong
+734023,Rawalpindi,2011-04-15,Rawalpindi Stadium,0,Quetta Gladiators,Multan Sultans,Quetta Gladiators,field,Quetta Gladiators,wickets,8,N,NA,RM Deshpande,C Shamshuddin
+734025,Peshawar,2010-04-25,Peshawar Stadium,0,Kings XI Punjab,Islamabad United,Islamabad United,field,Islamabad United,wickets,7,N,NA,HDPK Dharmasena,VA Kulkarni
+734027,Rawalpindi,2010-04-15,Rawalpindi Stadium,0,Quetta Gladiators,Peshawar Zalmi,Peshawar Zalmi,field,Quetta Gladiators,runs,30,N,NA,AK Chaudhary,CK Nandan
+734029,Gujranwala,2010-04-16,Gujranwala Stadium,0,Multan Sultans,Lahore Qalandars,Lahore Qalandars,field,Lahore Qalandars,wickets,6,N,NA,BNJ Oxenford,C Shamshuddin
+734031,Islamabad,2010-04-09,Islamabad Stadium,0,Islamabad United,Karachi Kings,Karachi Kings,field,Islamabad United,runs,15,N,NA,S Ravi,RJ Tucker
+734033,Peshawar,2010-04-10,Peshawar Stadium,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,16,N,NA,HDPK Dharmasena,PG Pathak
+734035,Multan,2010-04-03,Multan Stadium,0,Peshawar Zalmi,Multan Sultans,Multan Sultans,field,Multan Sultans,wickets,8,N,NA,AK Chaudhary,NJ Llong
+734037,Rawalpindi,2010-04-04,Rawalpindi Stadium,0,Quetta Gladiators,Lahore Qalandars,Quetta Gladiators,field,Quetta Gladiators,wickets,4,N,NA,RM Deshpande,BNJ Oxenford
+734039,Peshawar,2010-03-28,Peshawar Stadium,0,Kings XI Punjab,Karachi Kings,Kings XI Punjab,field,Kings XI Punjab,wickets,7,N,NA,HDPK Dharmasena,VA Kulkarni
+734041,Islamabad,2010-03-29,Islamabad Stadium,0,Islamabad United,Rajasthan Royals,Islamabad United,field,Islamabad United,wickets,5,N,NA,K Srinath,RJ Tucker
+734043,Rawalpindi,2010-03-22,Rawalpindi Stadium,0,Kings XI Punjab,Quetta Gladiators,Kings XI Punjab,field,Quetta Gladiators,runs,28,N,NA,NJ Llong,S Ravi
+734045,Islamabad,2010-03-19,Islamabad Stadium,0,Multan Sultans,Islamabad United,Multan Sultans,field,Multan Sultans,wickets,7,N,NA,VA Kulkarni,BNJ Oxenford
+734047,Islamabad,2009-05-19,Islamabad Stadium,0,Multan Sultans,Kings XI Punjab,Multan Sultans,field,Kings XI Punjab,runs,24,N,NA,HDPK Dharmasena,RJ Tucker
+734049,Multan,2008-04-27,Multan Stadium,0,Quetta Gladiators,Kings XI Punjab,Quetta Gladiators,field,Quetta Gladiators,wickets,3,N,NA,HDPK Dharmasena,BNJ Oxenford
+829705,Rawalpindi,2013-05-11,Rawalpindi Stadium,0,Quetta Gladiators,Islamabad United,Quetta Gladiators,field,Quetta Gladiators,wickets,7,N,NA,S Ravi,C Shamshuddin
+829707,Quetta,2013-05-04,Quetta Stadium,0,Multan Sultans,Karachi Kings,Karachi Kings,field,Multan Sultans,runs,1,N,NA,RK Illingworth,VA Kulkarni
+829709,GUJRANWALA,2019-04-08,Gujranwala Stadium,0,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Rajasthan Royals,runs,26,N,NA,SD Fry,CB Gaffaney
+829711,Quetta,2019-03-30,Quetta Stadium,0,Multan Sultans,Lahore Qalandars,Multan Sultans,bat,Multan Sultans,runs,45,N,NA,RK Illingworth,VA Kulkarni
+829713,Rawalpindi,2019-03-31,Rawalpindi Stadium,0,Quetta Gladiators,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,wickets,3,N,NA,S Ravi,C Shamshuddin
+829715,Karachi,2018-05-23,Karachi Stadium,0,Karachi Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3,N,NA,SD Fry,CB Gaffaney
+829717,Islamabad,2018-05-25,Islamabad Stadium,0,Islamabad United,Kings XI Punjab,Islamabad United,field,Kings XI Punjab,runs,18,N,NA,AK Chaudhary,K Srinivasan
+829719,Multan,2018-05-13,Multan Stadium,0,Peshawar Zalmi,Lahore Qalandars,Lahore Qalandars,field,Lahore Qalandars,wickets,8,N,NA,RM Deshpande,RK Illingworth
+829721,Sialkot,2018-05-05,Sialkot Stadium,0,Rajasthan Royals,Islamabad United,Islamabad United,bat,Rajasthan Royals,wickets,7,N,NA,AK Chaudhary,SD Fry
+829723,Rawalpindi,2014-05-03,Rawalpindi Stadium,0,Quetta Gladiators,Multan Sultans,Quetta Gladiators,field,Quetta Gladiators,wickets,7,N,NA,AK Chaudhary,M Erasmus
+829725,GUJRANWALA,2018-04-22,Gujranwala Stadium,0,Kings XI Punjab,Karachi Kings,Kings XI Punjab,bat,Karachi Kings,wickets,5,N,NA,CB Gaffaney,K Srinath
+829727,GUJRANWALA,2018-04-12,Gujranwala Stadium,0,Lahore Qalandars,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6,N,NA,PG Pathak,S Ravi
+829729,Islamabad,2017-05-11,Islamabad Stadium,0,Islamabad United,Multan Sultans,Islamabad United,bat,Multan Sultans,wickets,6,N,NA,AK Chaudhary,M Erasmus
+829731,GUJRANWALA,2017-04-28,Gujranwala Stadium,0,Lahore Qalandars,Karachi Kings,Karachi Kings,bat,Karachi Kings,runs,4,N,NA,PG Pathak,S Ravi
+829733,GUJRANWALA,2017-04-29,Gujranwala Stadium,0,Kings XI Punjab,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,wickets,4,N,NA,SD Fry,CK Nandan
+829735,Sialkot,2017-04-15,Sialkot Stadium,0,Rajasthan Royals,Multan Sultans,Multan Sultans,bat,Rajasthan Royals,wickets,8,N,NA,AK Chaudhary,M Erasmus
+829737,Multan,2017-04-16,Multan Stadium,0,Peshawar Zalmi,Islamabad United,Peshawar Zalmi,field,Islamabad United,runs,18,N,NA,RK Illingworth,VA Kulkarni
+829739,Karachi,2016-05-27,Karachi Stadium,0,Karachi Kings,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,wickets,6,N,NA,SD Fry,CB Gaffaney
+829741,Sialkot,2016-05-14,Sialkot Stadium,0,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,tie,NA,Y,NA,M Erasmus,S Ravi
+829743,GUJRANWALA,2016-04-30,Gujranwala Stadium,0,Lahore Qalandars,Quetta Gladiators,Quetta Gladiators,field,Lahore Qalandars,runs,16,N,D/L,RK Illingworth,VA Kulkarni
+829745,Multan,2016-05-01,Multan Stadium,0,Peshawar Zalmi,Multan Sultans,Peshawar Zalmi,field,Multan Sultans,runs,27,N,NA,JD Cloete,C Shamshuddin
+829747,Karachi,2016-04-18,Karachi Stadium,0,Karachi Kings,Islamabad United,Islamabad United,field,Karachi Kings,runs,37,N,NA,SD Fry,CK Nandan
+829749,Sialkot,2015-05-19,Sialkot Stadium,0,Rajasthan Royals,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,wickets,9,N,NA,M Erasmus,S Ravi
+829751,Islamabad,2015-05-07,Islamabad Stadium,0,Islamabad United,Lahore Qalandars,Islamabad United,bat,Islamabad United,runs,20,N,NA,HDPK Dharmasena,CB Gaffaney
+829753,Quetta,2015-05-08,Quetta Stadium,0,Multan Sultans,Kings XI Punjab,Multan Sultans,bat,Multan Sultans,runs,97,N,NA,JD Cloete,C Shamshuddin
+829757,Karachi,2015-05-07,Karachi Stadium,0,Karachi Kings,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,wickets,10,N,NA,M Erasmus,S Ravi
+829759,Peshawar,2015-04-16,Peshawar Stadium,0,Kings XI Punjab,Lahore Qalandars,Kings XI Punjab,field,Lahore Qalandars,runs,20,N,NA,HDPK Dharmasena,CB Gaffaney
+829761,Rawalpindi,2008-05-23,Rawalpindi Stadium,0,Quetta Gladiators,Karachi Kings,Quetta Gladiators,bat,Quetta Gladiators,runs,13,N,NA,AK Chaudhary,M Erasmus
+829763,Multan,2014-05-18,Multan Stadium,0,Peshawar Zalmi,Rajasthan Royals,Rajasthan Royals,field,NA,NA,NA,NA,NA,JD Cloete,PG Pathak
+829765,Quetta,2014-05-30,Quetta Stadium,0,Multan Sultans,Quetta Gladiators,Quetta Gladiators,field,Multan Sultans,runs,2,N,NA,RM Deshpande,VA Kulkarni
+829767,Karachi,2013-04-23,Karachi Stadium,0,Karachi Kings,Kings XI Punjab,Karachi Kings,field,Karachi Kings,wickets,9,N,NA,RK Illingworth,S Ravi
+829769,Islamabad,2013-05-16,Islamabad Stadium,0,Islamabad United,Rajasthan Royals,Rajasthan Royals,field,Islamabad United,runs,8,N,NA,HDPK Dharmasena,CK Nandan
+829771,Multan,2011-04-22,Multan Stadium,0,Peshawar Zalmi,Quetta Gladiators,Peshawar Zalmi,field,Peshawar Zalmi,wickets,7,N,NA,JD Cloete,PG Pathak
+829773,Lahore,2011-04-23,Lahore Stadium,0,Lahore Qalandars,Multan Sultans,Multan Sultans,field,Lahore Qalandars,runs,22,N,NA,AK Chaudhary,K Srinivasan
+829775,Peshawar,2009-05-23,Peshawar Stadium,0,Kings XI Punjab,Islamabad United,Islamabad United,bat,Islamabad United,runs,23,N,NA,RK Illingworth,VA Kulkarni
+829777,Islamabad,2009-05-24,Islamabad Stadium,0,Rajasthan Royals,Karachi Kings,Karachi Kings,field,Rajasthan Royals,runs,14,N,NA,HDPK Dharmasena,CB Gaffaney
+829779,Quetta,2009-05-12,Quetta Stadium,0,Multan Sultans,Peshawar Zalmi,Multan Sultans,bat,Multan Sultans,runs,24,N,NA,C Shamshuddin,K Srinath
+829781,Rawalpindi,2009-05-12,Rawalpindi Stadium,0,Quetta Gladiators,Lahore Qalandars,Lahore Qalandars,field,Quetta Gladiators,runs,35,N,NA,AK Chaudhary,M Erasmus
+829783,Islamabad,2009-05-01,Islamabad Stadium,0,Islamabad United,Karachi Kings,Karachi Kings,bat,Islamabad United,wickets,5,N,NA,HDPK Dharmasena,CB Gaffaney
+829785,Multan,2009-04-23,Multan Stadium,0,Peshawar Zalmi,Kings XI Punjab,Kings XI Punjab,field,Peshawar Zalmi,runs,138,N,NA,RK Illingworth,VA Kulkarni
+829787,Islamabad,2008-05-24,Islamabad Stadium,0,Rajasthan Royals,Lahore Qalandars,Rajasthan Royals,field,Lahore Qalandars,runs,7,N,NA,JD Cloete,C Shamshuddin
+829789,Quetta,2008-05-11,Quetta Stadium,0,Multan Sultans,Islamabad United,Multan Sultans,bat,Islamabad United,wickets,6,N,NA,CB Gaffaney,CK Nandan
+829791,Rawalpindi,2008-05-01,Rawalpindi Stadium,0,Quetta Gladiators,Kings XI Punjab,Kings XI Punjab,bat,Quetta Gladiators,wickets,1,N,NA,AK Chaudhary,HDPK Dharmasena
+829793,GUJRANWALA,2008-05-01,Gujranwala Stadium,0,Karachi Kings,Lahore Qalandars,Lahore Qalandars,bat,Lahore Qalandars,runs,6,N,NA,VA Kulkarni,S Ravi
+829795,Islamabad,2013-04-11,Islamabad Stadium,0,Islamabad United,Peshawar Zalmi,Peshawar Zalmi,bat,Peshawar Zalmi,runs,39,N,NA,JD Cloete,C Shamshuddin
+829797,Quetta,2013-04-12,Quetta Stadium,0,Multan Sultans,Rajasthan Royals,Multan Sultans,bat,Multan Sultans,runs,12,N,NA,M Erasmus,CK Nandan
+829799,Lahore,2012-05-23,Lahore Stadium,0,Lahore Qalandars,Kings XI Punjab,Lahore Qalandars,bat,Lahore Qalandars,runs,5,N,NA,AK Chaudhary,HDPK Dharmasena
+829801,GUJRANWALA,2012-05-13,Gujranwala Stadium,0,Karachi Kings,Multan Sultans,Multan Sultans,bat,Karachi Kings,wickets,6,N,NA,RK Illingworth,VA Kulkarni
+829803,Peshawar,2012-05-04,Peshawar Stadium,0,Kings XI Punjab,Peshawar Zalmi,Peshawar Zalmi,field,Kings XI Punjab,runs,22,N,NA,JD Cloete,C Shamshuddin
+829805,Islamabad,2012-04-21,Islamabad Stadium,0,Islamabad United,Quetta Gladiators,Quetta Gladiators,field,Islamabad United,runs,5,N,NA,RK Illingworth,VA Kulkarni
+829807,Lahore,2012-04-12,Lahore Stadium,0,Lahore Qalandars,Peshawar Zalmi,Lahore Qalandars,bat,Peshawar Zalmi,wickets,6,N,D/L,AK Chaudhary,HDPK Dharmasena
+829809,Peshawar,2012-04-06,Peshawar Stadium,0,Kings XI Punjab,Multan Sultans,Kings XI Punjab,bat,Multan Sultans,wickets,7,N,NA,CK Nandan,C Shamshuddin
+829811,Islamabad,2012-04-06,Islamabad Stadium,0,Rajasthan Royals,Quetta Gladiators,Rajasthan Royals,bat,Rajasthan Royals,runs,9,N,NA,RM Deshpande,RK Illingworth
+829813,Multan,2011-05-18,Multan Stadium,0,Peshawar Zalmi,Karachi Kings,Peshawar Zalmi,field,NA,NA,NA,NA,NA,HDPK Dharmasena,K Srinivasan
+829815,Lahore,2011-05-19,Lahore Stadium,0,Lahore Qalandars,Islamabad United,Lahore Qalandars,bat,Islamabad United,wickets,9,N,NA,CB Gaffaney,K Srinath
+829817,Islamabad,2011-05-02,Islamabad Stadium,0,Multan Sultans,Islamabad United,Islamabad United,bat,Islamabad United,runs,25,N,NA,HDPK Dharmasena,RK Illingworth
+829819,GUJRANWALA,2011-04-14,Gujranwala Stadium,0,Peshawar Zalmi,Rajasthan Royals,Peshawar Zalmi,bat,Peshawar Zalmi,runs,71,N,NA,AK Chaudhary,C Shamshuddin
+829821,Gujranwala,2010-04-14,Gujranwala Stadium,0,Multan Sultans,Peshawar Zalmi,Multan Sultans,field,Multan Sultans,wickets,3,N,NA,AK Chaudhary,CB Gaffaney
+829823,Rawalpindi,2010-04-03,Rawalpindi Stadium,0,Islamabad United,Multan Sultans,Multan Sultans,field,Islamabad United,runs,41,N,NA,HDPK Dharmasena,RK Illingworth
+980901,Islamabad,2013-05-03,Islamabad Stadium,0,Islamabad United,s,Islamabad United,bat,s,wickets,9,N,NA,HDPK Dharmasena,CK Nandan
+980903,Rawalpindi,2019-04-07,Rawalpindi Stadium,0,Quetta Gladiators,Karachi Kings,Quetta Gladiators,field,Quetta Gladiators,wickets,9,N,NA,S Ravi,C Shamshuddin
+980905,Peshawar,2019-03-30,Peshawar Stadium,0,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,5,N,NA,AK Chaudhary,VA Kulkarni
+980907,Multan,2018-05-22,Multan Stadium,0,Peshawar Zalmi,Lahore Qalandars,Lahore Qalandars,field,Peshawar Zalmi,runs,45,N,NA,HDPK Dharmasena,VK Sharma
+980909,Rawalpindi,2018-05-12,Rawalpindi Stadium,0,Quetta Gladiators,Islamabad United,Islamabad United,field,Islamabad United,wickets,6,N,NA,Nitin Menon,S Ravi
+980911,GUJRANWALA,2018-05-04,Gujranwala Stadium,0,Gujarat Lions,s,s,bat,Gujarat Lions,wickets,7,N,NA,VA Kulkarni,CK Nandan
+980913,Karachi,2018-04-22,Karachi Stadium,0,Karachi Kings,Kings XI Punjab,Karachi Kings,field,Karachi Kings,wickets,8,N,NA,S Ravi,C Shamshuddin
+980915,Lahore,2018-04-10,Lahore Stadium,0,Lahore Qalandars,Quetta Gladiators,Lahore Qalandars,bat,Quetta Gladiators,wickets,8,N,NA,AK Chaudhary,CK Nandan
+980917,Islamabad,2018-04-11,Islamabad Stadium,0,Islamabad United,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,3,N,NA,HDPK Dharmasena,VK Sharma
+980919,Peshawar,2017-05-09,Peshawar Stadium,0,Kings XI Punjab,s,s,bat,Kings XI Punjab,wickets,6,N,NA,S Ravi,C Shamshuddin
+980921,Multan,2017-05-10,Multan Stadium,0,Peshawar Zalmi,Karachi Kings,Karachi Kings,field,Karachi Kings,wickets,7,N,NA,VA Kulkarni,A Nand Kishore
+980923,Lahore,2017-04-28,Lahore Stadium,0,Lahore Qalandars,Islamabad United,Lahore Qalandars,field,Lahore Qalandars,wickets,7,N,NA,HDPK Dharmasena,VK Sharma
+980925,Peshawar,2017-04-15,Peshawar Stadium,0,Kings XI Punjab,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,wickets,6,N,NA,S Ravi,C Shamshuddin
+980927,Islamabad,2016-05-25,Islamabad Stadium,0,Islamabad United,Peshawar Zalmi,Islamabad United,field,Islamabad United,wickets,6,N,NA,AK Chaudhary,CK Nandan
+980929,GUJRANWALA,2016-05-13,Gujranwala Stadium,0,Gujarat Lions,Lahore Qalandars,Lahore Qalandars,field,Lahore Qalandars,wickets,10,N,NA,K Bharatan,HDPK Dharmasena
+980931,GUJRANWALA,2016-04-30,Gujranwala Stadium,0,s,Peshawar Zalmi,s,field,Peshawar Zalmi,runs,13,N,NA,CB Gaffaney,VK Sharma
+980933,Karachi,2016-04-17,Karachi Stadium,0,Karachi Kings,Islamabad United,Islamabad United,field,Karachi Kings,runs,10,N,NA,S Ravi,C Shamshuddin
+980935,Lahore,2016-04-17,Lahore Stadium,0,Lahore Qalandars,Kings XI Punjab,Lahore Qalandars,field,Lahore Qalandars,wickets,5,N,NA,AK Chaudhary,CK Nandan
+980937,GUJRANWALA,2015-05-17,Gujranwala Stadium,0,Gujarat Lions,Peshawar Zalmi,Peshawar Zalmi,bat,Gujarat Lions,wickets,6,N,NA,K Bharatan,BNJ Oxenford
+980939,GUJRANWALA,2015-05-17,Gujranwala Stadium,0,s,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,wickets,2,N,NA,CB Gaffaney,A Nand Kishore
+980941,Peshawar,2015-05-06,Peshawar Stadium,0,Kings XI Punjab,Islamabad United,Kings XI Punjab,field,Islamabad United,runs,25,N,NA,Nitin Menon,RJ Tucker
+980943,Lahore,2015-04-27,Lahore Stadium,0,Lahore Qalandars,s,s,field,s,runs,34,N,D/L,AY Dandekar,CK Nandan
+980945,Karachi,2015-04-15,Karachi Stadium,0,Karachi Kings,Gujarat Lions,Karachi Kings,field,Gujarat Lions,runs,1,N,NA,M Erasmus,S Ravi
+980947,Islamabad,2014-05-28,Islamabad Stadium,0,Islamabad United,Quetta Gladiators,Islamabad United,field,Islamabad United,wickets,6,N,NA,Nitin Menon,RJ Tucker
+980949,GUJRANWALA,2014-05-15,Gujranwala Stadium,0,s,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,3,N,NA,CB Gaffaney,BNJ Oxenford
+980951,Karachi,2014-05-02,Karachi Stadium,0,Karachi Kings,Quetta Gladiators,Quetta Gladiators,field,Karachi Kings,runs,27,N,NA,KN Ananthapadmanabhan,M Erasmus
+980953,Lahore,2014-05-03,Lahore Stadium,0,Lahore Qalandars,Peshawar Zalmi,Peshawar Zalmi,field,Lahore Qalandars,runs,15,N,NA,AK Chaudhary,HDPK Dharmasena
+980955,GUJRANWALA,2013-04-21,Gujranwala Stadium,0,Gujarat Lions,Kings XI Punjab,Gujarat Lions,field,Kings XI Punjab,runs,23,N,NA,BNJ Oxenford,VK Sharma
+980957,GUJRANWALA,2013-04-22,Gujranwala Stadium,0,s,Islamabad United,Islamabad United,field,Islamabad United,wickets,8,N,NA,AY Dandekar,RJ Tucker
+980959,Multan,2011-04-22,Multan Stadium,0,Peshawar Zalmi,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,wickets,5,N,NA,M Erasmus,S Ravi
+980961,GUJRANWALA,2009-05-22,Gujranwala Stadium,0,Gujarat Lions,Karachi Kings,Karachi Kings,field,Karachi Kings,wickets,8,N,NA,CB Gaffaney,BNJ Oxenford
+980963,Rawalpindi,2009-05-11,Rawalpindi Stadium,0,Quetta Gladiators,Kings XI Punjab,Kings XI Punjab,field,Quetta Gladiators,runs,7,N,NA,AK Chaudhary,HDPK Dharmasena
+980965,Karachi,2009-05-01,Karachi Stadium,0,Karachi Kings,s,s,field,s,wickets,7,N,NA,C Shamshuddin,RJ Tucker
+980967,Lahore,2009-04-22,Lahore Stadium,0,Lahore Qalandars,Gujarat Lions,Lahore Qalandars,field,Lahore Qalandars,wickets,5,N,NA,M Erasmus,S Ravi
+980969,Multan,2008-05-21,Multan Stadium,0,Peshawar Zalmi,s,Peshawar Zalmi,field,Peshawar Zalmi,wickets,7,N,NA,CB Gaffaney,BNJ Oxenford
+980971,Peshawar,2008-05-21,Peshawar Stadium,0,Kings XI Punjab,Karachi Kings,Karachi Kings,field,Kings XI Punjab,runs,9,N,NA,HDPK Dharmasena,CK Nandan
+980973,GUJRANWALA,2008-05-28,Gujranwala Stadium,0,Islamabad United,Lahore Qalandars,Islamabad United,field,Lahore Qalandars,runs,85,N,NA,S Ravi,C Shamshuddin
+980975,Rawalpindi,2008-05-10,Rawalpindi Stadium,0,Quetta Gladiators,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,5,N,NA,M Erasmus,RJ Tucker
+980977,Peshawar,2008-04-30,Peshawar Stadium,0,Kings XI Punjab,Peshawar Zalmi,Kings XI Punjab,field,Peshawar Zalmi,runs,1,N,NA,AK Chaudhary,HDPK Dharmasena
+980979,GUJRANWALA,2013-04-11,Gujranwala Stadium,0,s,Lahore Qalandars,Lahore Qalandars,bat,Lahore Qalandars,runs,4,N,NA,CB Gaffaney,VK Sharma
+980981,Multan,2012-05-22,Multan Stadium,0,Peshawar Zalmi,Islamabad United,Islamabad United,field,Islamabad United,wickets,6,N,NA,AY Dandekar,C Shamshuddin
+980983,Lahore,2012-05-13,Lahore Stadium,0,Lahore Qalandars,Karachi Kings,Karachi Kings,field,Karachi Kings,wickets,7,N,NA,K Bharatan,M Erasmus
+980985,GUJRANWALA,2012-05-03,Gujranwala Stadium,0,Islamabad United,Kings XI Punjab,Islamabad United,bat,Kings XI Punjab,wickets,7,N,NA,HDPK Dharmasena,CK Nandan
+980987,Multan,2012-04-20,Multan Stadium,0,Peshawar Zalmi,Gujarat Lions,Gujarat Lions,field,Peshawar Zalmi,runs,144,N,NA,AY Dandekar,VK Sharma
+980989,Rawalpindi,2012-04-21,Rawalpindi Stadium,0,Quetta Gladiators,s,s,bat,Quetta Gladiators,wickets,8,N,D/L,A Nand Kishore,BNJ Oxenford
+980991,Peshawar,2012-04-11,Peshawar Stadium,0,Kings XI Punjab,Lahore Qalandars,Kings XI Punjab,bat,Lahore Qalandars,wickets,7,N,NA,KN Ananthapadmanabhan,M Erasmus
+980993,GUJRANWALA,2012-04-12,Gujranwala Stadium,0,Islamabad United,Karachi Kings,Karachi Kings,field,Islamabad United,runs,80,N,NA,Nitin Menon,CK Nandan
+980995,Rawalpindi,2012-04-05,Rawalpindi Stadium,0,Quetta Gladiators,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,wickets,9,N,NA,CB Gaffaney,A Nand Kishore
+980997,GUJRANWALA,2011-05-17,Gujranwala Stadium,0,s,Karachi Kings,s,field,s,runs,19,N,D/L,Nitin Menon,C Shamshuddin
+980999,Multan,2011-05-08,Multan Stadium,0,Peshawar Zalmi,Kings XI Punjab,Kings XI Punjab,field,Peshawar Zalmi,runs,82,N,D/L,KN Ananthapadmanabhan,M Erasmus
+981001,GUJRANWALA,2011-05-01,Green Park,0,Gujarat Lions,Quetta Gladiators,Gujarat Lions,field,Gujarat Lions,wickets,6,N,NA,AK Chaudhary,CK Nandan
+981003,GUJRANWALA,2011-04-13,Gujranwala Stadium,0,Karachi Kings,Lahore Qalandars,Karachi Kings,field,Karachi Kings,wickets,6,N,NA,A Nand Kishore,BNJ Oxenford
+981005,GUJRANWALA,2010-04-22,Gujranwala Stadium,0,s,Kings XI Punjab,Kings XI Punjab,bat,s,wickets,4,N,NA,HDPK Dharmasena,Nitin Menon
+981007,GUJRANWALA,2010-04-24,Green Park,0,Gujarat Lions,Islamabad United,Gujarat Lions,field,Gujarat Lions,wickets,6,N,NA,AK Chaudhary,CK Nandan
+981009,Rawalpindi,2010-04-13,Rawalpindi Stadium,0,Quetta Gladiators,Lahore Qalandars,Lahore Qalandars,field,Quetta Gladiators,runs,22,N,NA,KN Ananthapadmanabhan,M Erasmus
+981011,GUJRANWALA,2010-04-13,Gujranwala Stadium,0,Karachi Kings,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,wickets,6,N,NA,A Nand Kishore,BNJ Oxenford
+981013,Multan,2010-04-02,Multan Stadium,0,Gujarat Lions,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,wickets,4,N,NA,AK Chaudhary,HDPK Dharmasena
+981015,Karachi,2010-03-28,Karachi Stadium,0,Lahore Qalandars,Quetta Gladiators,Quetta Gladiators,field,Lahore Qalandars,runs,22,N,NA,M Erasmus,C Shamshuddin
+981017,Karachi,2010-03-21,Karachi Stadium,0,Gujarat Lions,Lahore Qalandars,Lahore Qalandars,field,Lahore Qalandars,wickets,4,N,NA,M Erasmus,CK Nandan
+981019,Multan,2010-03-18,Multan Stadium,0,Peshawar Zalmi,Lahore Qalandars,Lahore Qalandars,bat,Lahore Qalandars,runs,8,N,NA,HDPK Dharmasena,BNJ Oxenford
+1082591,Lahore,2014-04-21,Lahore Stadium,0,Lahore Qalandars,Peshawar Zalmi,Peshawar Zalmi,field,Lahore Qalandars,runs,35,N,NA,AY Dandekar,NJ Llong
+1082592,GUJRANWALA,2014-04-16,Gujranwala Stadium,0,,Islamabad United,,field,,wickets,7,N,NA,A Nand Kishore,S Ravi
+1082593,GUJRANWALA,2013-05-17,Gujranwala Stadium,0,Gujarat Lions,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,wickets,10,N,NA,Nitin Menon,CK Nandan
+1082594,GUJRANWALA,2013-05-10,Gujranwala Stadium,0,Kings XI Punjab,,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,AK Chaudhary,C Shamshuddin
+1082595,GUJRANWALA,2013-05-11,Gujranwala Stadium,0,Peshawar Zalmi,Karachi Kings,Peshawar Zalmi,bat,Peshawar Zalmi,runs,15,N,NA,S Ravi,VK Sharma
+1082596,Lahore,2013-05-02,Lahore Stadium,0,Lahore Qalandars,Gujarat Lions,Lahore Qalandars,field,Lahore Qalandars,wickets,9,N,NA,A Deshmukh,NJ Llong
+1082597,Islamabad,2013-05-02,Islamabad Stadium,0,Islamabad United,Quetta Gladiators,Islamabad United,field,Islamabad United,wickets,4,N,NA,Nitin Menon,CK Nandan
+1082598,GUJRANWALA,2019-04-07,Gujranwala Stadium,0,Kings XI Punjab,Peshawar Zalmi,Peshawar Zalmi,bat,Kings XI Punjab,wickets,8,N,NA,AK Chaudhary,C Shamshuddin
+1082599,GUJRANWALA,2019-03-29,Gujranwala Stadium,0,,Karachi Kings,,field,Karachi Kings,runs,97,N,NA,AY Dandekar,S Ravi
+1082600,Islamabad,2018-05-20,Islamabad Stadium,0,Islamabad United,Lahore Qalandars,Islamabad United,field,Islamabad United,wickets,4,N,NA,Nitin Menon,CK Nandan
+1082601,Rawalpindi,2018-05-12,Rawalpindi Stadium,0,Quetta Gladiators,Kings XI Punjab,Quetta Gladiators,field,Quetta Gladiators,wickets,8,N,NA,A Deshmukh,NJ Llong
+1082602,Multan,2018-05-02,Multan Stadium,0,Peshawar Zalmi,Islamabad United,Islamabad United,field,Islamabad United,wickets,4,N,NA,KN Ananthapadmanabhan,AK Chaudhary
+1082603,GUJRANWALA,2018-05-03,Gujranwala Stadium,0,Gujarat Lions,,Gujarat Lions,field,Gujarat Lions,wickets,7,N,NA,A Nand Kishore,S Ravi
+1082604,Rawalpindi,2018-04-21,Rawalpindi Stadium,0,Quetta Gladiators,Lahore Qalandars,Lahore Qalandars,field,Quetta Gladiators,runs,17,N,NA,AY Dandekar,NJ Llong
+1082605,Karachi,2018-04-21,Karachi Stadium,0,Karachi Kings,Kings XI Punjab,Karachi Kings,bat,Karachi Kings,runs,51,N,NA,YC Barde,Nitin Menon
+1082606,Islamabad,2018-04-08,Islamabad Stadium,0,Islamabad United,Gujarat Lions,Islamabad United,field,Islamabad United,wickets,6,N,NA,A Nand Kishore,S Ravi
+1082607,Multan,2018-04-09,Multan Stadium,0,Peshawar Zalmi,,Peshawar Zalmi,field,,runs,27,N,NA,KN Ananthapadmanabhan,C Shamshuddin
+1082608,Karachi,2017-05-07,Karachi Stadium,0,Karachi Kings,Quetta Gladiators,Karachi Kings,bat,Quetta Gladiators,wickets,4,N,NA,Nitin Menon,CK Nandan
+1082609,Lahore,2017-05-08,Lahore Stadium,0,Lahore Qalandars,Kings XI Punjab,Kings XI Punjab,field,Lahore Qalandars,runs,5,N,NA,AY Dandekar,A Deshmukh
+1082610,GUJRANWALA,2017-04-27,Gujranwala Stadium,0,Gujarat Lions,Peshawar Zalmi,Gujarat Lions,field,Peshawar Zalmi,runs,21,N,NA,S Ravi,VK Sharma
+1082611,Lahore,2017-04-14,Lahore Stadium,0,Lahore Qalandars,Karachi Kings,Lahore Qalandars,bat,Lahore Qalandars,runs,15,N,NA,CB Gaffaney,NJ Llong
+1082612,GUJRANWALA,2016-05-24,Gujranwala Stadium,0,Kings XI Punjab,Islamabad United,Islamabad United,field,Islamabad United,wickets,8,N,NA,M Erasmus,C Shamshuddin
+1082613,Rawalpindi,2016-05-12,Rawalpindi Stadium,0,Quetta Gladiators,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,4,N,NA,CB Gaffaney,Nitin Menon
+1082614,Islamabad,2016-04-28,Islamabad Stadium,0,Islamabad United,Karachi Kings,Karachi Kings,field,Islamabad United,runs,14,N,NA,A Nand Kishore,S Ravi
+1082615,GUJRANWALA,2016-04-29,Gujranwala Stadium,0,,Lahore Qalandars,,field,,wickets,6,N,NA,AY Dandekar,A Deshmukh
+1082616,GUJRANWALA,2016-04-16,Gujranwala Stadium,0,Gujarat Lions,Kings XI Punjab,Gujarat Lions,field,Kings XI Punjab,runs,26,N,NA,AK Chaudhary,M Erasmus
+1082617,Rawalpindi,2016-04-16,Rawalpindi Stadium,0,Quetta Gladiators,Peshawar Zalmi,Peshawar Zalmi,field,Quetta Gladiators,runs,82,N,NA,CB Gaffaney,CK Nandan
+1082618,Islamabad,2015-05-16,Islamabad Stadium,0,Islamabad United,,Islamabad United,field,,runs,3,N,NA,A Nand Kishore,S Ravi
+1082620,GUJRANWALA,2015-04-26,Gujranwala Stadium,0,,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,wickets,7,N,NA,AY Dandekar,NJ Llong
+1082621,Multan,2015-04-30,Multan Stadium,0,Peshawar Zalmi,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,7,N,NA,AK Chaudhary,C Shamshuddin
+1082622,Rawalpindi,2014-05-25,Rawalpindi Stadium,0,Quetta Gladiators,Karachi Kings,Quetta Gladiators,field,Quetta Gladiators,wickets,7,N,NA,NJ Llong,S Ravi
+1082623,Peshawar,2014-05-27,Peshawar Stadium,0,Kings XI Punjab,Lahore Qalandars,Kings XI Punjab,field,Lahore Qalandars,runs,26,N,NA,Nitin Menon,CK Nandan
+1082624,GUJRANWALA,2014-05-14,Gujranwala Stadium,0,,Peshawar Zalmi,Peshawar Zalmi,field,,runs,61,N,NA,KN Ananthapadmanabhan,M Erasmus
+1082625,GUJRANWALA,2014-05-14,Gujranwala Stadium,0,Gujarat Lions,Islamabad United,Gujarat Lions,bat,Islamabad United,tie,NA,Y,NA,AK Chaudhary,CB Gaffaney
+1082626,Peshawar,2014-04-29,Peshawar Stadium,0,Kings XI Punjab,Karachi Kings,Kings XI Punjab,field,Kings XI Punjab,wickets,10,N,NA,YC Barde,CK Nandan
+1082627,Lahore,2014-04-30,Lahore Stadium,0,Lahore Qalandars,Quetta Gladiators,Quetta Gladiators,field,Lahore Qalandars,runs,48,N,NA,AY Dandekar,S Ravi
+1082628,Islamabad,2013-04-20,Islamabad Stadium,0,Islamabad United,Peshawar Zalmi,Peshawar Zalmi,bat,Islamabad United,wickets,5,N,NA,AK Chaudhary,CB Gaffaney
+1082629,GUJRANWALA,2013-04-21,Gujranwala Stadium,0,,Gujarat Lions,,field,,wickets,5,N,NA,M Erasmus,C Shamshuddin
+1082630,Karachi,2011-04-21,Karachi Stadium,0,Karachi Kings,Lahore Qalandars,Karachi Kings,field,Karachi Kings,wickets,6,N,NA,YC Barde,Nitin Menon
+1082631,Rawalpindi,2009-05-21,Rawalpindi Stadium,0,Quetta Gladiators,,,field,,wickets,4,N,NA,KN Ananthapadmanabhan,A Nand Kishore
+1082632,Karachi,2009-05-10,Karachi Stadium,0,Karachi Kings,Gujarat Lions,Karachi Kings,field,Karachi Kings,wickets,7,N,NA,M Erasmus,Nitin Menon
+1082633,Multan,2009-04-30,Multan Stadium,0,Peshawar Zalmi,Kings XI Punjab,Peshawar Zalmi,field,Kings XI Punjab,runs,19,N,NA,CB Gaffaney,C Shamshuddin
+1082634,Lahore,2009-04-20,Lahore Stadium,0,Lahore Qalandars,,Lahore Qalandars,field,,runs,12,N,NA,KN Ananthapadmanabhan,AK Chaudhary
+1082635,Karachi,2009-04-21,Karachi Stadium,0,Karachi Kings,Islamabad United,Karachi Kings,field,Islamabad United,runs,146,N,NA,Nitin Menon,CK Nandan
+1082636,Multan,2008-05-19,Multan Stadium,0,Peshawar Zalmi,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,wickets,6,N,NA,AY Dandekar,C Shamshuddin
+1082637,Peshawar,2008-05-20,Peshawar Stadium,0,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,6,N,NA,A Nand Kishore,VK Sharma
+1082638,Lahore,2008-05-09,Lahore Stadium,0,Lahore Qalandars,Islamabad United,Islamabad United,bat,Lahore Qalandars,wickets,7,N,NA,KN Ananthapadmanabhan,M Erasmus
+1082639,Peshawar,2008-04-29,Peshawar Stadium,0,Kings XI Punjab,Quetta Gladiators,Quetta Gladiators,field,Kings XI Punjab,runs,14,N,NA,A Nand Kishore,S Ravi
+1082640,GUJRANWALA,2013-04-10,Green Park,0,Gujarat Lions,Karachi Kings,Karachi Kings,field,Karachi Kings,wickets,2,N,NA,YC Barde,AK Chaudhary
+1082641,Islamabad,2012-05-20,Islamabad Stadium,0,Islamabad United,Kings XI Punjab,Islamabad United,field,Kings XI Punjab,runs,7,N,NA,A Deshmukh,A Nand Kishore
+1082642,Karachi,2012-05-12,Karachi Stadium,0,Karachi Kings,,Karachi Kings,bat,Karachi Kings,runs,7,N,NA,KN Ananthapadmanabhan,CK Nandan
+1082643,GUJRANWALA,2012-05-01,Green Park,0,Gujarat Lions,Lahore Qalandars,Lahore Qalandars,field,Lahore Qalandars,wickets,8,N,NA,AK Chaudhary,Nitin Menon
+1082644,Rawalpindi,2012-05-02,Rawalpindi Stadium,0,Quetta Gladiators,Islamabad United,Quetta Gladiators,field,Islamabad United,runs,9,N,NA,A Nand Kishore,S Ravi
+1082645,GUJRANWALA,2012-05-10,Gujranwala Stadium,0,,Kings XI Punjab,,field,,wickets,9,N,NA,AY Dandekar,A Deshmukh
+1082646,Karachi,2012-04-19,Karachi Stadium,0,Karachi Kings,Peshawar Zalmi,Peshawar Zalmi,bat,Peshawar Zalmi,runs,10,N,NA,CK Nandan,C Shamshuddin
+1082647,Islamabad,2012-04-04,Islamabad Stadium,0,Islamabad United,,Islamabad United,field,,runs,20,N,NA,S Ravi,C Shamshuddin
+1082648,Multan,2011-05-16,Multan Stadium,0,Lahore Qalandars,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,wickets,7,N,D/L,AK Chaudhary,Nitin Menon
+1082649,Multan,2011-05-01,Multan Stadium,0,Islamabad United,Quetta Gladiators,Islamabad United,field,Islamabad United,wickets,6,N,NA,NJ Llong,Nitin Menon
+1082650,Lahore,2010-04-21,Lahore Stadium,0,Islamabad United,,Islamabad United,bat,Islamabad United,runs,1,N,NA,NJ Llong,S Ravi
+1136561,Islamabad,2013-05-06,Islamabad Stadium,0,Islamabad United,Multan Sultans,Multan Sultans,field,Multan Sultans,wickets,1,N,NA,CB Gaffaney,A Nand Kishore
+1136562,Peshawar,2013-05-09,Peshawar Stadium,0,Kings XI Punjab,Karachi Kings,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,KN Ananthapadmanabhan,RJ Tucker
+1136563,Rawalpindi,2013-05-09,Rawalpindi Stadium,0,Quetta Gladiators,Peshawar Zalmi,Quetta Gladiators,field,Quetta Gladiators,wickets,4,N,NA,C Shamshuddin,A Deshmukh
+1136564,Lahore,2013-05-01,Lahore Stadium,0,Lahore Qalandars,Rajasthan Royals,Lahore Qalandars,field,Lahore Qalandars,wickets,9,N,NA,VA Kulkarni,NJ Llong
+1136565,Quetta,2019-04-06,Quetta Stadium,0,Multan Sultans,Quetta Gladiators,Multan Sultans,field,Multan Sultans,wickets,5,N,NA,CB Gaffaney,AK Chaudhary
+1136566,Peshawar,2019-03-28,Peshawar Stadium,0,Rajasthan Royals,Karachi Kings,Karachi Kings,field,Rajasthan Royals,runs,10,N,D/L,KN Ananthapadmanabhan,Nitin Menon
+1136567,Lahore,2018-05-20,Lahore Stadium,0,Lahore Qalandars,Islamabad United,Lahore Qalandars,field,Lahore Qalandars,wickets,1,N,NA,NJ Llong,CK Nandan
+1136568,GUJRANWALA,2018-05-11,Gujranwala Stadium,0,Peshawar Zalmi,Kings XI Punjab,Peshawar Zalmi,field,Peshawar Zalmi,wickets,4,N,NA,A Deshmukh,S Ravi
+1136569,Islamabad,2018-04-30,Islamabad Stadium,0,Islamabad United,Karachi Kings,Karachi Kings,field,Karachi Kings,wickets,7,N,NA,KN Ananthapadmanabhan,Nitin Menon
+1136570,Rawalpindi,2018-05-01,Rawalpindi Stadium,0,Quetta Gladiators,Lahore Qalandars,Lahore Qalandars,field,Lahore Qalandars,wickets,5,N,NA,AK Chaudhary,A Nand Kishore
+1136571,GUJRANWALA,2018-04-19,Gujranwala Stadium,0,Peshawar Zalmi,Rajasthan Royals,Peshawar Zalmi,field,Rajasthan Royals,runs,19,N,NA,C Shamshuddin,S Ravi
+1136572,Peshawar,2018-04-20,Peshawar Stadium,0,Kings XI Punjab,Multan Sultans,Multan Sultans,field,Kings XI Punjab,runs,4,N,NA,VA Kulkarni,CK Nandan
+1136573,Rawalpindi,2018-04-08,Rawalpindi Stadium,0,Quetta Gladiators,Karachi Kings,Karachi Kings,field,Quetta Gladiators,runs,71,N,NA,AK Chaudhary,A Nand Kishore
+1136574,Islamabad,2017-05-07,Islamabad Stadium,0,Islamabad United,Peshawar Zalmi,Peshawar Zalmi,field,Islamabad United,runs,46,N,NA,RJ Tucker,Nitin Menon
+1136575,Peshawar,2017-04-26,Peshawar Stadium,0,Rajasthan Royals,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,wickets,7,N,NA,A Deshmukh,S Ravi
+1136576,Peshawar,2017-04-14,Peshawar Stadium,0,Kings XI Punjab,Lahore Qalandars,Kings XI Punjab,bat,Kings XI Punjab,runs,15,N,NA,NJ Llong,AK Chaudhary
+1136577,GUJRANWALA,2016-05-22,Gujranwala Stadium,0,Multan Sultans,Rajasthan Royals,Rajasthan Royals,field,Multan Sultans,runs,64,N,NA,KN Ananthapadmanabhan,Nitin Menon
+1136578,Rawalpindi,2016-05-10,Rawalpindi Stadium,0,Quetta Gladiators,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,9,N,D/L,C Shamshuddin,A Deshmukh
+1136579,GUJRANWALA,2016-05-11,Gujranwala Stadium,0,Peshawar Zalmi,Karachi Kings,Peshawar Zalmi,field,Peshawar Zalmi,wickets,6,N,NA,CB Gaffaney,CK Nandan
+1136580,Lahore,2016-04-26,Lahore Stadium,0,Lahore Qalandars,Multan Sultans,Lahore Qalandars,field,Multan Sultans,runs,4,N,NA,VA Kulkarni,AK Chaudhary
+1136581,Peshawar,2016-04-27,Peshawar Stadium,0,Rajasthan Royals,Islamabad United,Islamabad United,bat,Rajasthan Royals,wickets,3,N,NA,KN Ananthapadmanabhan,RJ Tucker
+1136582,Karachi,2016-04-15,Karachi Stadium,0,Karachi Kings,Kings XI Punjab,Karachi Kings,field,Kings XI Punjab,runs,4,N,NA,A Nand Kishore,CK Nandan
+1136583,Islamabad,2015-05-16,Islamabad Stadium,0,Islamabad United,Lahore Qalandars,Islamabad United,field,Lahore Qalandars,runs,31,N,NA,C Shamshuddin,S Ravi
+1136584,GUJRANWALA,2015-05-05,Gujranwala Stadium,0,Peshawar Zalmi,Multan Sultans,Multan Sultans,field,Multan Sultans,wickets,5,N,NA,NJ Llong,VK Sharma
+1136585,Lahore,2015-04-25,Lahore Stadium,0,Lahore Qalandars,Kings XI Punjab,Kings XI Punjab,field,Lahore Qalandars,runs,13,N,NA,YC Barde,CK Nandan
+1136586,Karachi,2015-04-14,Karachi Stadium,0,Karachi Kings,Quetta Gladiators,Quetta Gladiators,field,Karachi Kings,runs,55,N,NA,C Shamshuddin,S Ravi
+1136587,GUJRANWALA,2014-05-25,Gujranwala Stadium,0,Multan Sultans,Islamabad United,Islamabad United,field,Islamabad United,wickets,8,N,NA,CB Gaffaney,Nitin Menon
+1136588,Peshawar,2014-05-13,Peshawar Stadium,0,Rajasthan Royals,Lahore Qalandars,Lahore Qalandars,bat,Lahore Qalandars,runs,11,N,NA,BNJ Oxenford,A Nand Kishore
+1136589,GUJRANWALA,2014-05-13,Gujranwala Stadium,0,Peshawar Zalmi,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,wickets,6,N,NA,NJ Llong,AK Chaudhary
+1136590,GUJRANWALA,2014-04-28,Gujranwala Stadium,0,Multan Sultans,Karachi Kings,Karachi Kings,field,Multan Sultans,runs,13,N,NA,AY Dandekar,C Shamshuddin
+1136591,GUJRANWALA,2013-04-20,Gujranwala Stadium,0,Peshawar Zalmi,Islamabad United,Islamabad United,field,Peshawar Zalmi,runs,14,N,NA,M Erasmus,Nitin Menon
+1136592,Karachi,2011-04-20,Karachi Stadium,0,Karachi Kings,Rajasthan Royals,Rajasthan Royals,field,Karachi Kings,runs,4,N,D/L,VK Sharma,CK Nandan
+1136593,Rawalpindi,2009-05-21,Rawalpindi Stadium,0,Quetta Gladiators,Multan Sultans,Quetta Gladiators,field,Quetta Gladiators,wickets,6,N,NA,HDPK Dharmasena,A Deshmukh
+1136594,GUJRANWALA,2009-05-10,Gujranwala Stadium,0,Kings XI Punjab,Islamabad United,Islamabad United,field,Islamabad United,wickets,6,N,NA,AY Dandekar,S Ravi
+1136595,GUJRANWALA,2009-04-29,Gujranwala Stadium,0,Multan Sultans,Peshawar Zalmi,Multan Sultans,field,Multan Sultans,wickets,6,N,NA,Nitin Menon,YC Barde
+1136596,Lahore,2009-04-30,Lahore Stadium,0,Lahore Qalandars,Karachi Kings,Karachi Kings,bat,Lahore Qalandars,wickets,7,N,NA,BNJ Oxenford,CK Nandan
+1136597,Islamabad,2009-04-19,Islamabad Stadium,0,Islamabad United,Quetta Gladiators,Quetta Gladiators,field,Islamabad United,runs,13,N,NA,HDPK Dharmasena,A Deshmukh
+1136598,GUJRANWALA,2009-04-19,Gujranwala Stadium,0,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,C Shamshuddin,S Ravi
+1136599,Lahore,2008-05-18,Lahore Stadium,0,Lahore Qalandars,Peshawar Zalmi,Peshawar Zalmi,field,Lahore Qalandars,runs,5,N,NA,BNJ Oxenford,VK Sharma
+1136600,Peshawar,2008-05-08,Peshawar Stadium,0,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,bat,Rajasthan Royals,runs,15,N,NA,M Erasmus,Nitin Menon
+1136601,Rawalpindi,2008-04-28,Rawalpindi Stadium,0,Quetta Gladiators,Islamabad United,Quetta Gladiators,field,Islamabad United,runs,102,N,NA,KN Ananthapadmanabhan,AK Chaudhary
+1136602,Karachi,2013-04-09,Karachi Stadium,0,Karachi Kings,Lahore Qalandars,Karachi Kings,bat,Lahore Qalandars,wickets,9,N,NA,AY Dandekar,C Shamshuddin
+1136603,Peshawar,2012-05-20,Peshawar Stadium,0,Rajasthan Royals,Multan Sultans,Multan Sultans,bat,Rajasthan Royals,wickets,4,N,NA,M Erasmus,YC Barde
+1136604,GUJRANWALA,2012-05-11,Gujranwala Stadium,0,Kings XI Punjab,Quetta Gladiators,Kings XI Punjab,field,Quetta Gladiators,runs,31,N,NA,VK Sharma,CK Nandan
+1136605,Karachi,2012-05-12,Karachi Stadium,0,Karachi Kings,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,wickets,5,N,NA,KN Ananthapadmanabhan,HDPK Dharmasena
+1136606,GUJRANWALA,2012-04-30,Gujranwala Stadium,0,Multan Sultans,Lahore Qalandars,Multan Sultans,field,Multan Sultans,wickets,8,N,NA,M Erasmus,YC Barde
+1136607,Islamabad,2012-05-01,Islamabad Stadium,0,Islamabad United,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7,N,NA,Nitin Menon,S Ravi
+1136608,GUJRANWALA,2012-04-18,Gujranwala Stadium,0,Kings XI Punjab,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,wickets,10,N,NA,BNJ Oxenford,VK Sharma
+1136609,Rawalpindi,2012-04-10,Rawalpindi Stadium,0,Quetta Gladiators,Rajasthan Royals,Quetta Gladiators,field,Quetta Gladiators,wickets,6,N,NA,HDPK Dharmasena,AK Chaudhary
+1136610,Islamabad,2011-05-28,Islamabad Stadium,0,Islamabad United,Kings XI Punjab,Kings XI Punjab,field,Islamabad United,runs,3,N,NA,M Erasmus,Nitin Menon
+1136611,GUJRANWALA,2011-05-15,Gujranwala Stadium,0,Peshawar Zalmi,Lahore Qalandars,Lahore Qalandars,field,Peshawar Zalmi,runs,14,N,NA,AY Dandekar,S Ravi
+1136612,Karachi,2011-05-08,Karachi Stadium,0,Karachi Kings,Multan Sultans,Multan Sultans,field,Karachi Kings,runs,34,N,NA,VA Kulkarni,HDPK Dharmasena
+1136613,Peshawar,2011-04-30,Peshawar Stadium,0,Rajasthan Royals,Peshawar Zalmi,Rajasthan Royals,bat,Rajasthan Royals,runs,30,N,NA,BNJ Oxenford,VK Sharma
+1136614,Lahore,2011-04-30,Lahore Stadium,0,Lahore Qalandars,Quetta Gladiators,Lahore Qalandars,bat,Quetta Gladiators,wickets,5,N,NA,AK Chaudhary,S Ravi
+1136615,Karachi,2011-04-12,Karachi Stadium,0,Karachi Kings,Islamabad United,Karachi Kings,bat,Karachi Kings,runs,11,N,NA,HDPK Dharmasena,CK Nandan
+1136616,GUJRANWALA,2011-04-13,Gujranwala Stadium,0,Multan Sultans,Kings XI Punjab,Multan Sultans,field,Multan Sultans,wickets,5,N,NA,Nitin Menon,YC Barde
+1136617,Islamabad,2010-04-12,Islamabad Stadium,0,Lahore Qalandars,Multan Sultans,Multan Sultans,field,Multan Sultans,wickets,2,N,NA,C Shamshuddin,M Erasmus
+1136618,Rawalpindi,2010-04-08,Rawalpindi Stadium,0,Quetta Gladiators,Rajasthan Royals,Rajasthan Royals,field,Quetta Gladiators,runs,25,N,NA,AK Chaudhary,Nitin Menon
+1136619,Rawalpindi,2010-03-25,Rawalpindi Stadium,0,Quetta Gladiators,Lahore Qalandars,Quetta Gladiators,field,Lahore Qalandars,runs,14,N,NA,HDPK Dharmasena,Nitin Menon
+1136620,Islamabad,2010-03-21,Islamabad Stadium,0,Multan Sultans,Lahore Qalandars,Multan Sultans,field,Multan Sultans,wickets,8,N,NA,M Erasmus,S Ravi
+1175356,Quetta,2019-05-04,Quetta Stadium,0,Multan Sultans,Peshawar Zalmi,Multan Sultans,field,Multan Sultans,wickets,7,N,NA,AY Dandekar,BNJ Oxenford
+1175357,Rawalpindi,2019-05-02,Rawalpindi Stadium,0,Quetta Gladiators,Lahore Qalandars,Quetta Gladiators,field,Quetta Gladiators,wickets,6,N,NA,CB Gaffaney,AK Chaudhary
+1175358,Islamabad,2019-05-03,Islamabad Stadium,0,Islamabad United,Karachi Kings,Islamabad United,field,Karachi Kings,runs,37,N,NA,YC Barde,S Ravi
+1175359,Peshawar,2019-04-29,Peshawar Stadium,0,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,field,Kings XI Punjab,runs,14,N,NA,KN Ananthapadmanabhan,C Shamshuddin
+1175360,Karachi,2019-04-28,Karachi Stadium,0,Karachi Kings,Multan Sultans,Karachi Kings,bat,Multan Sultans,wickets,6,N,NA,M Erasmus,Nitin Menon
+1175361,Rawalpindi,2019-04-26,Rawalpindi Stadium,0,Quetta Gladiators,Kings XI Punjab,Kings XI Punjab,field,Quetta Gladiators,runs,28,N,NA,VA Kulkarni,AK Chaudhary
+1175362,GUJRANWALA,2019-04-23,Gujranwala Stadium,0,Peshawar Zalmi,Islamabad United,Peshawar Zalmi,field,Islamabad United,runs,6,N,NA,CK Nandan,S Ravi
+1175363,Lahore,2019-04-21,Lahore Stadium,0,Lahore Qalandars,Rajasthan Royals,Rajasthan Royals,bat,Lahore Qalandars,wickets,5,N,NA,C Shamshuddin,BNJ Oxenford
+1175364,Peshawar,2019-04-20,Peshawar Stadium,0,Kings XI Punjab,Islamabad United,Kings XI Punjab,field,Kings XI Punjab,wickets,8,N,NA,VA Kulkarni,CB Gaffaney
+1175365,Karachi,2019-04-20,Karachi Stadium,0,Karachi Kings,Quetta Gladiators,Karachi Kings,field,Karachi Kings,tie,NA,Y,NA,AY Dandekar,Nitin Menon
+1175366,Lahore,2019-04-16,Lahore Stadium,0,Lahore Qalandars,Peshawar Zalmi,Peshawar Zalmi,field,Lahore Qalandars,runs,118,N,NA,KN Ananthapadmanabhan,S Ravi
+1175367,Quetta,2019-04-17,Quetta Stadium,0,Multan Sultans,Rajasthan Royals,Rajasthan Royals,field,Multan Sultans,runs,8,N,NA,YC Barde,CK Nandan
+1175368,Peshawar,2019-04-14,Peshawar Stadium,0,Kings XI Punjab,Karachi Kings,Karachi Kings,field,Kings XI Punjab,runs,14,N,NA,CB Gaffaney,AK Chaudhary
+1175369,Peshawar,2017-04-11,Peshawar Stadium,0,Rajasthan Royals,Peshawar Zalmi,Rajasthan Royals,field,Rajasthan Royals,wickets,7,N,NA,AY Dandekar,M Erasmus
+1175370,Islamabad,2014-05-10,Islamabad Stadium,0,Islamabad United,Multan Sultans,Multan Sultans,field,Islamabad United,runs,37,N,NA,RJ Tucker,BNJ Oxenford
+1175371,Karachi,2014-04-25,Karachi Stadium,0,Karachi Kings,Lahore Qalandars,Lahore Qalandars,field,Lahore Qalandars,wickets,5,N,NA,KN Ananthapadmanabhan,C Shamshuddin
+1175372,GUJRANWALA,2014-04-20,Gujranwala Stadium,0,Peshawar Zalmi,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,wickets,5,N,NA,CB Gaffaney,AK Chaudhary
+1178393,Quetta,2013-05-24,Quetta Stadium,0,Multan Sultans,Kings XI Punjab,Multan Sultans,bat,Multan Sultans,runs,22,N,NA,KN Ananthapadmanabhan,RJ Tucker
+1178394,Lahore,2013-05-26,Lahore Stadium,0,Lahore Qalandars,Islamabad United,Lahore Qalandars,field,Islamabad United,runs,40,N,NA,AY Dandekar,Nitin Menon
+1178395,GUJRANWALA,2013-05-14,Gujranwala Stadium,0,Peshawar Zalmi,Karachi Kings,Karachi Kings,field,Karachi Kings,wickets,4,N,NA,YC Barde,S Ravi
+1178396,Peshawar,2013-05-15,Peshawar Stadium,0,Rajasthan Royals,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,wickets,8,N,NA,CB Gaffaney,AK Chaudhary
+1178397,Peshawar,2013-05-08,Peshawar Stadium,0,Kings XI Punjab,Lahore Qalandars,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,AY Dandekar,M Erasmus
+1178398,Quetta,2013-05-01,Quetta Stadium,0,Multan Sultans,Quetta Gladiators,Multan Sultans,field,Multan Sultans,wickets,7,N,NA,RJ Tucker,C Shamshuddin
+1178399,Islamabad,2019-04-06,Islamabad Stadium,0,Islamabad United,Kings XI Punjab,Islamabad United,field,Islamabad United,wickets,3,N,NA,YC Barde,S Ravi
+1178400,Peshawar,2019-03-27,Peshawar Stadium,0,Rajasthan Royals,Multan Sultans,Multan Sultans,field,Multan Sultans,wickets,4,N,NA,UV Gandhe,BNJ Oxenford
+1178401,Rawalpindi,2018-05-19,Rawalpindi Stadium,0,Quetta Gladiators,Karachi Kings,Karachi Kings,field,Karachi Kings,wickets,7,N,NA,YC Barde,CK Nandan
+1178402,Islamabad,2018-05-09,Islamabad Stadium,0,Islamabad United,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,4,N,NA,Nitin Menon,A Nand Kishore
+1178403,Peshawar,2018-05-10,Peshawar Stadium,0,Kings XI Punjab,Peshawar Zalmi,Peshawar Zalmi,field,Peshawar Zalmi,wickets,8,N,NA,UV Gandhe,S Ravi
+1178404,Rawalpindi,2018-04-29,Rawalpindi Stadium,0,Quetta Gladiators,Multan Sultans,Multan Sultans,field,Multan Sultans,wickets,5,N,NA,RJ Tucker,CK Nandan
+1178405,Lahore,2018-04-29,Lahore Stadium,0,Lahore Qalandars,Karachi Kings,Lahore Qalandars,field,Karachi Kings,runs,39,N,NA,BNJ Oxenford,AK Chaudhary
+1178406,Islamabad,2018-04-18,Islamabad Stadium,0,Islamabad United,Peshawar Zalmi,Islamabad United,field,Islamabad United,wickets,5,N,NA,M Erasmus,Nitin Menon
+1178407,Peshawar,2018-04-07,Peshawar Stadium,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,12,N,NA,VA Kulkarni,AK Chaudhary
+1178408,Lahore,2017-05-06,Lahore Stadium,0,Lahore Qalandars,Multan Sultans,Multan Sultans,bat,Lahore Qalandars,wickets,6,N,NA,UV Gandhe,IJ Gould
+1178409,Karachi,2017-04-24,Karachi Stadium,0,Karachi Kings,Islamabad United,Islamabad United,bat,Islamabad United,runs,40,N,NA,BNJ Oxenford,NJ Llong
+1178410,Rawalpindi,2017-04-13,Rawalpindi Stadium,0,Quetta Gladiators,Peshawar Zalmi,Quetta Gladiators,field,Peshawar Zalmi,runs,10,N,NA,IJ Gould,Nitin Menon
+1178411,Peshawar,2016-05-21,Peshawar Stadium,0,Rajasthan Royals,Islamabad United,Rajasthan Royals,field,Rajasthan Royals,wickets,5,N,NA,YC Barde,S Ravi
+1178412,Karachi,2016-05-22,Karachi Stadium,0,Karachi Kings,Kings XI Punjab,Karachi Kings,field,Karachi Kings,wickets,5,N,NA,UV Gandhe,C Shamshuddin
+1178413,Lahore,2016-05-08,Lahore Stadium,0,Lahore Qalandars,Quetta Gladiators,Lahore Qalandars,field,Lahore Qalandars,wickets,9,N,NA,NJ Llong,Nitin Menon
+1178414,GUJRANWALA,2016-05-09,Gujranwala Stadium,0,Peshawar Zalmi,Multan Sultans,Multan Sultans,field,Peshawar Zalmi,runs,1,N,NA,RJ Tucker,VA Kulkarni
+1178415,Peshawar,2016-04-25,Peshawar Stadium,0,Rajasthan Royals,Karachi Kings,Karachi Kings,field,Karachi Kings,wickets,6,N,NA,A Nand Kishore,S Ravi
+1178416,Quetta,2016-04-14,Quetta Stadium,0,Multan Sultans,Lahore Qalandars,Multan Sultans,field,Multan Sultans,wickets,6,N,NA,NJ Llong,AK Chaudhary
+1178417,GUJRANWALA,2015-05-15,Gujranwala Stadium,0,Peshawar Zalmi,Kings XI Punjab,Kings XI Punjab,field,Peshawar Zalmi,runs,17,N,NA,C Shamshuddin,BNJ Oxenford
+1178418,Rawalpindi,2015-05-04,Rawalpindi Stadium,0,Quetta Gladiators,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3,N,NA,AY Dandekar,IJ Gould
+1178419,Quetta,2015-04-25,Quetta Stadium,0,Multan Sultans,Islamabad United,Multan Sultans,field,Islamabad United,runs,46,N,NA,NJ Llong,AK Chaudhary
+1178420,Peshawar,2015-04-13,Peshawar Stadium,0,Rajasthan Royals,Lahore Qalandars,Rajasthan Royals,field,Rajasthan Royals,wickets,7,N,NA,YC Barde,A Nand Kishore
+1178421,Karachi,2014-05-24,Karachi Stadium,0,Karachi Kings,Peshawar Zalmi,Karachi Kings,bat,Karachi Kings,runs,16,N,NA,KN Ananthapadmanabhan,BNJ Oxenford
+1178422,Rawalpindi,2014-05-24,Rawalpindi Stadium,0,Quetta Gladiators,Islamabad United,Islamabad United,field,Quetta Gladiators,runs,34,N,NA,IJ Gould,Nitin Menon
+1178423,Lahore,2014-05-12,Lahore Stadium,0,Lahore Qalandars,Kings XI Punjab,Kings XI Punjab,field,Lahore Qalandars,runs,45,N,NA,CK Nandan,S Ravi
+1178424,GUJRANWALA,2014-04-27,Gujranwala Stadium,0,Peshawar Zalmi,Rajasthan Royals,Rajasthan Royals,field,NA,NA,NA,NA,NA,UV Gandhe,NJ Llong
+1178425,Quetta,2013-04-19,Quetta Stadium,0,Multan Sultans,Karachi Kings,Karachi Kings,field,Multan Sultans,runs,80,N,NA,AY Dandekar,Nitin Menon
+1178426,Islamabad,2011-04-20,Islamabad Stadium,0,Islamabad United,Lahore Qalandars,Islamabad United,bat,Islamabad United,tie,NA,Y,NA,CK Nandan,S Ravi
+1178427,Peshawar,2009-05-20,Peshawar Stadium,0,Kings XI Punjab,Quetta Gladiators,Quetta Gladiators,field,Quetta Gladiators,wickets,7,N,NA,C Shamshuddin,BNJ Oxenford
+1178428,Karachi,2009-05-09,Karachi Stadium,0,Karachi Kings,Rajasthan Royals,Rajasthan Royals,bat,Karachi Kings,wickets,5,N,NA,AY Dandekar,IJ Gould
+1178429,GUJRANWALA,2009-05-09,Gujranwala Stadium,0,Peshawar Zalmi,Lahore Qalandars,Peshawar Zalmi,field,Peshawar Zalmi,wickets,4,N,NA,NJ Llong,AK Chaudhary
+1178430,Peshawar,2009-04-28,Peshawar Stadium,0,Kings XI Punjab,Multan Sultans,Kings XI Punjab,field,Kings XI Punjab,wickets,6,N,NA,KN Ananthapadmanabhan,C Shamshuddin
+1178431,Islamabad,2009-04-29,Islamabad Stadium,0,Islamabad United,Quetta Gladiators,Islamabad United,field,Islamabad United,wickets,9,N,NA,A Nand Kishore,CK Nandan
+1181764,Quetta,2008-05-18,Quetta Stadium,0,Islamabad United,Multan Sultans,Multan Sultans,bat,Islamabad United,wickets,6,N,NA,NJ Llong,Nitin Menon
+1181766,GUJRANWALA,2008-05-08,Gujranwala Stadium,0,Karachi Kings,Lahore Qalandars,Karachi Kings,field,Karachi Kings,wickets,2,N,NA,BNJ Oxenford,S Ravi
+1181767,GUJRANWALA,2013-04-08,Gujranwala Stadium,0,Multan Sultans,Karachi Kings,Multan Sultans,field,Multan Sultans,wickets,6,N,NA,BNJ Oxenford,S Ravi
+1181768,Lahore,2012-05-10,Lahore Stadium,0,Islamabad United,Multan Sultans,Islamabad United,bat,Islamabad United,runs,1,N,NA,IJ Gould,Nitin Menon
+1216492,Abu Dhabi,2008-04-26,Sheikh Zayed Stadium,0,Islamabad United,Multan Sultans,Multan Sultans,field,Multan Sultans,wickets,5,N,NA,CB Gaffaney,VK Sharma
+1216493,Dubai,2008-04-26,Dubai International Cricket Stadium,0,Karachi Kings,Kings XI Punjab,Kings XI Punjab,field,Karachi Kings,tie,NA,Y,NA,AK Chaudhary,Nitin Menon
+1216494,Abu Dhabi,2020-09-21,Sheikh Zayed Stadium,0,Quetta Gladiators,Peshawar Zalmi,Quetta Gladiators,bat,Peshawar Zalmi,wickets,8,N,NA,VK Sharma,S Ravi
+1216495,Sharjah,2020-10-11,Sharjah Cricket Stadium,0,Islamabad United,Lahore Qalandars,Lahore Qalandars,field,Lahore Qalandars,wickets,10,N,NA,C Shamshuddin,RK Illingworth
+1216496,Sharjah,2008-04-24,Sharjah Cricket Stadium,0,Rajasthan Royals,Multan Sultans,Multan Sultans,field,Rajasthan Royals,runs,16,N,NA,C Shamshuddin,VA Kulkarni
+1216497,Abu Dhabi,2020-11-01,Sheikh Zayed Stadium,0,Quetta Gladiators,Karachi Kings,Karachi Kings,field,Quetta Gladiators,runs,59,N,NA,CB Gaffaney,PG Pathak
+1216498,Dubai,2020-10-15,Dubai International Cricket Stadium,0,Kings XI Punjab,Lahore Qalandars,Lahore Qalandars,field,Kings XI Punjab,runs,12,N,NA,AY Dandekar,PR Reiffel
+1216499,Abu Dhabi,2020-10-10,Sheikh Zayed Stadium,0,Peshawar Zalmi,Islamabad United,Islamabad United,field,Islamabad United,wickets,5,N,NA,UV Gandhe,CB Gaffaney
+1216500,Sharjah,2020-10-18,Sharjah Cricket Stadium,0,Karachi Kings,Rajasthan Royals,Rajasthan Royals,field,Karachi Kings,runs,46,N,NA,KN Ananthapadmanabhan,C Shamshuddin
+1216501,Abu Dhabi,2020-10-03,Sheikh Zayed Stadium,0,Quetta Gladiators,Multan Sultans,Quetta Gladiators,bat,Quetta Gladiators,runs,10,N,NA,KN Ananthapadmanabhan,RK Illingworth
+1216502,Sharjah,2020-10-05,Sharjah Cricket Stadium,0,Peshawar Zalmi,Lahore Qalandars,Lahore Qalandars,field,Lahore Qalandars,wickets,5,N,NA,KN Ananthapadmanabhan,K Srinivasan
+1216503,Abu Dhabi,2020-11-10,Sheikh Zayed Stadium,0,Islamabad United,Kings XI Punjab,Kings XI Punjab,field,Islamabad United,runs,48,N,NA,VK Sharma,S Ravi
+1216504,Dubai,2008-04-18,Dubai International Cricket Stadium,0,Quetta Gladiators,Rajasthan Royals,Rajasthan Royals,field,Quetta Gladiators,runs,37,N,NA,KN Ananthapadmanabhan,C Shamshuddin
+1216505,Abu Dhabi,2020-09-23,Sheikh Zayed Stadium,0,Peshawar Zalmi,Karachi Kings,Karachi Kings,field,Karachi Kings,wickets,6,N,NA,CB Gaffaney,S Ravi
+1216506,Abu Dhabi,2020-09-24,Sheikh Zayed Stadium,0,Kings XI Punjab,Multan Sultans,Multan Sultans,field,Multan Sultans,wickets,9,N,NA,PG Pathak,VK Sharma
+1216507,Dubai,2020-09-28,Dubai International Cricket Stadium,0,Lahore Qalandars,Rajasthan Royals,Lahore Qalandars,bat,Rajasthan Royals,wickets,5,N,NA,YC Barde,PR Reiffel
+1216508,Abu Dhabi,2008-04-23,Sheikh Zayed Stadium,0,Islamabad United,Quetta Gladiators,Quetta Gladiators,field,Islamabad United,runs,49,N,NA,CB Gaffaney,S Ravi
+1216509,Sharjah,2020-10-12,Sharjah Cricket Stadium,0,Multan Sultans,Karachi Kings,Multan Sultans,bat,Karachi Kings,wickets,5,N,NA,KN Ananthapadmanabhan,RK Illingworth
+1216510,Dubai,2008-04-22,Dubai International Cricket Stadium,0,Kings XI Punjab,Peshawar Zalmi,Peshawar Zalmi,field,Kings XI Punjab,runs,97,N,NA,AK Chaudhary,PR Reiffel
+1216511,Abu Dhabi,2020-10-03,Sheikh Zayed Stadium,0,Islamabad United,Rajasthan Royals,Islamabad United,bat,Islamabad United,runs,57,N,NA,VK Sharma,S Ravi
+1216512,Abu Dhabi,2020-10-04,Sheikh Zayed Stadium,0,Quetta Gladiators,Lahore Qalandars,Lahore Qalandars,field,Quetta Gladiators,tie,NA,Y,NA,PG Pathak,S Ravi
+1216513,Dubai,2020-10-18,Dubai International Cricket Stadium,0,Kings XI Punjab,Multan Sultans,Kings XI Punjab,bat,Multan Sultans,wickets,10,N,NA,AY Dandekar,Nitin Menon
+1216514,Abu Dhabi,2020-10-17,Sheikh Zayed Stadium,0,Rajasthan Royals,Peshawar Zalmi,Rajasthan Royals,bat,Peshawar Zalmi,wickets,8,N,NA,CB Gaffaney,S Ravi
+1216515,Sharjah,2020-10-10,Sharjah Cricket Stadium,0,Karachi Kings,Quetta Gladiators,Quetta Gladiators,field,Karachi Kings,runs,18,N,NA,VA Kulkarni,RK Illingworth
+1216516,Dubai,2020-10-29,Dubai International Cricket Stadium,0,Lahore Qalandars,Multan Sultans,Lahore Qalandars,bat,Lahore Qalandars,runs,7,N,NA,AK Chaudhary,PR Reiffel
+1216517,Dubai,2020-09-25,Dubai International Cricket Stadium,0,Islamabad United,Kings XI Punjab,Islamabad United,bat,Kings XI Punjab,tie,NA,Y,NA,Nitin Menon,PR Reiffel
+1216518,Dubai,2020-10-19,Dubai International Cricket Stadium,0,Rajasthan Royals,Lahore Qalandars,Lahore Qalandars,field,Lahore Qalandars,wickets,8,N,NA,Nitin Menon,PR Reiffel
+1216519,Dubai,2020-10-02,Dubai International Cricket Stadium,0,Karachi Kings,Peshawar Zalmi,Peshawar Zalmi,field,Karachi Kings,runs,59,N,NA,Nitin Menon,YC Barde
+1216520,Sharjah,2020-09-27,Sharjah Cricket Stadium,0,Quetta Gladiators,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,8,N,NA,KN Ananthapadmanabhan,RK Illingworth
+1216521,Sharjah,2020-09-29,Sharjah Cricket Stadium,0,Multan Sultans,Islamabad United,Islamabad United,field,Islamabad United,wickets,10,N,NA,C Shamshuddin,VA Kulkarni
+1216522,Dubai,2020-10-25,Dubai International Cricket Stadium,0,Rajasthan Royals,Peshawar Zalmi,Rajasthan Royals,bat,Peshawar Zalmi,wickets,7,N,NA,AK Chaudhary,Nitin Menon
+1216523,Abu Dhabi,2020-11-06,Sheikh Zayed Stadium,0,Quetta Gladiators,Kings XI Punjab,Quetta Gladiators,bat,Quetta Gladiators,runs,2,N,NA,UV Gandhe,CB Gaffaney
+1216524,Dubai,2020-10-16,Dubai International Cricket Stadium,0,Lahore Qalandars,Karachi Kings,Karachi Kings,field,Lahore Qalandars,runs,88,N,NA,AK Chaudhary,Nitin Menon
+1216525,Dubai,2020-11-08,Dubai International Cricket Stadium,0,Peshawar Zalmi,Multan Sultans,Peshawar Zalmi,bat,Peshawar Zalmi,runs,37,N,NA,AK Chaudhary,PR Reiffel
+1216526,Abu Dhabi,2020-10-08,Sheikh Zayed Stadium,0,Quetta Gladiators,Islamabad United,Quetta Gladiators,bat,Islamabad United,wickets,8,N,NA,CB Gaffaney,VK Sharma
+1216527,Sharjah,2008-04-20,Sharjah Cricket Stadium,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,4,N,NA,RK Illingworth,K Srinivasan
+1216528,Dubai,2020-09-26,Dubai International Cricket Stadium,0,Multan Sultans,Lahore Qalandars,Multan Sultans,bat,Multan Sultans,runs,20,N,NA,AK Chaudhary,PR Reiffel
+1216529,Abu Dhabi,2020-11-05,Sheikh Zayed Stadium,0,Karachi Kings,Islamabad United,Karachi Kings,bat,Islamabad United,wickets,5,N,NA,CB Gaffaney,S Ravi
+1216530,Dubai,2020-10-06,Dubai International Cricket Stadium,0,Quetta Gladiators,Rajasthan Royals,Rajasthan Royals,field,Quetta Gladiators,runs,60,N,NA,Nitin Menon,PR Reiffel
+1216531,Sharjah,2020-10-14,Sharjah Cricket Stadium,0,Peshawar Zalmi,Kings XI Punjab,Peshawar Zalmi,bat,Kings XI Punjab,wickets,8,N,NA,KN Ananthapadmanabhan,C Shamshuddin
+1216532,Abu Dhabi,2008-04-19,Sheikh Zayed Stadium,0,Lahore Qalandars,Karachi Kings,Karachi Kings,field,Lahore Qalandars,runs,15,N,NA,VK Sharma,S Ravi
+1216533,Abu Dhabi,2020-10-30,Sheikh Zayed Stadium,0,Multan Sultans,Rajasthan Royals,Multan Sultans,bat,Rajasthan Royals,wickets,7,N,NA,CB Gaffaney,VK Sharma
+1216534,Dubai,2008-04-25,Dubai International Cricket Stadium,0,Peshawar Zalmi,Lahore Qalandars,Lahore Qalandars,field,Peshawar Zalmi,runs,10,N,NA,AY Dandekar,Nitin Menon
+1216535,Dubai,2020-10-26,Dubai International Cricket Stadium,0,Karachi Kings,Islamabad United,Islamabad United,field,Islamabad United,wickets,9,N,NA,YC Barde,PR Reiffel
+1216536,Dubai,2020-10-27,Dubai International Cricket Stadium,0,Quetta Gladiators,Multan Sultans,Multan Sultans,field,Multan Sultans,wickets,6,N,NA,C Shamshuddin,RK Illingworth
+1216537,Abu Dhabi,2020-10-23,Sheikh Zayed Stadium,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7,N,NA,CB Gaffaney,S Ravi
+1216538,Sharjah,2020-10-22,Sharjah Cricket Stadium,0,Islamabad United,Lahore Qalandars,Islamabad United,bat,Islamabad United,runs,34,N,NA,KN Ananthapadmanabhan,RK Illingworth
+1216539,Dubai,2008-04-21,Dubai International Cricket Stadium,0,Karachi Kings,Multan Sultans,Multan Sultans,field,Karachi Kings,runs,44,N,NA,KN Ananthapadmanabhan,RK Illingworth
+1216540,Sharjah,2020-10-20,Sharjah Cricket Stadium,0,Peshawar Zalmi,Quetta Gladiators,Peshawar Zalmi,bat,Peshawar Zalmi,runs,82,N,NA,RK Illingworth,K Srinivasan
+1216541,Abu Dhabi,2020-10-13,Sheikh Zayed Stadium,0,Islamabad United,Rajasthan Royals,Islamabad United,bat,Rajasthan Royals,wickets,8,N,NA,UV Gandhe,VK Sharma
+1216542,Dubai,2020-10-04,Dubai International Cricket Stadium,0,Lahore Qalandars,Kings XI Punjab,Lahore Qalandars,bat,Lahore Qalandars,runs,69,N,NA,AK Chaudhary,Nitin Menon
+1216543,Dubai,2020-10-25,Dubai International Cricket Stadium,0,Karachi Kings,Rajasthan Royals,Karachi Kings,bat,Karachi Kings,runs,13,N,NA,AK Chaudhary,Nitin Menon
+1216544,Dubai,2020-10-11,Dubai International Cricket Stadium,0,Peshawar Zalmi,Multan Sultans,Peshawar Zalmi,bat,Multan Sultans,wickets,8,N,NA,C Shamshuddin,RK Illingworth
+1216545,Abu Dhabi,2008-04-20,Sheikh Zayed Stadium,0,Lahore Qalandars,Quetta Gladiators,Lahore Qalandars,bat,Quetta Gladiators,wickets,7,N,NA,CB Gaffaney,VK Sharma
+1216546,Dubai,2020-10-31,Dubai International Cricket Stadium,0,Karachi Kings,Kings XI Punjab,Karachi Kings,bat,Kings XI Punjab,wickets,5,N,NA,C Shamshuddin,RK Illingworth
+1216547,Dubai,2008-04-19,Dubai International Cricket Stadium,0,Peshawar Zalmi,Islamabad United,Islamabad United,field,Peshawar Zalmi,tie,NA,Y,NA,Nitin Menon,PR Reiffel
+1237177,Dubai,2020-11-01,Dubai International Cricket Stadium,0,Islamabad United,Karachi Kings,Karachi Kings,field,Islamabad United,runs,57,N,NA,CB Gaffaney,Nitin Menon
+1237178,Abu Dhabi,2020-11-02,Sheikh Zayed Stadium,0,Peshawar Zalmi,Lahore Qalandars,Lahore Qalandars,field,Lahore Qalandars,wickets,6,N,NA,PR Reiffel,S Ravi
+1237180,Abu Dhabi,2020-09-30,Sheikh Zayed Stadium,0,Karachi Kings,Lahore Qalandars,Karachi Kings,bat,Karachi Kings,runs,17,N,NA,PR Reiffel,S Ravi
+1237181,Dubai,2020-10-17,Dubai International Cricket Stadium,0,Karachi Kings,Islamabad United,Karachi Kings,bat,Islamabad United,wickets,5,N,NA,CB Gaffaney,Nitin Menon

@@ -30,14 +30,6 @@ public class Match {
         this.date = date;
     }
 
-    public String getPlayerOfMatch() {
-        return playerOfMatch;
-    }
-
-    public void setPlayerOfMatch(String playerOfMatch) {
-        this.playerOfMatch = playerOfMatch;
-    }
-
     public String getVenue() {
         return venue;
     }
@@ -122,7 +114,6 @@ public class Match {
     private long id;
     private String city;
     private LocalDate date ;
-    private String playerOfMatch;
     private String venue;
     private String team1 ;
     private String team2 ;

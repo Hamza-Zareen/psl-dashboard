@@ -4,7 +4,6 @@ public class MatchInput {
         private String id;
         private String city;
         private String date ;
-        private String player_of_match;
         private String venue ;
         private String neutral_venue ;
         private String team1 ;
@@ -41,14 +40,6 @@ public class MatchInput {
 
         public void setDate(String date) {
                 this.date = date;
-        }
-
-        public String getPlayer_of_match() {
-                return player_of_match;
-        }
-
-        public void setPlayer_of_match(String player_of_match) {
-                this.player_of_match = player_of_match;
         }
 
         public String getVenue() {

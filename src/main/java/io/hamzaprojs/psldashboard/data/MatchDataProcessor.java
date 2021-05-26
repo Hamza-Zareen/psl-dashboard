@@ -6,6 +6,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.batch.item.ItemProcessor;
 
 import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 
 public class MatchDataProcessor implements ItemProcessor<MatchInput, Match> {
     private static final Logger log = LoggerFactory.getLogger(MatchDataProcessor.class);
@@ -17,7 +18,6 @@ public class MatchDataProcessor implements ItemProcessor<MatchInput, Match> {
         match.setId(Long.parseLong(matchInput.getId()));
         match.setCity(matchInput.getCity());
         match.setDate(LocalDate.parse(matchInput.getDate()));
-        match.setPlayerOfMatch(matchInput.getPlayer_of_match());
         match.setVenue(matchInput.getVenue());
 
         String firstInningsTeam, secondInningsTeam;
