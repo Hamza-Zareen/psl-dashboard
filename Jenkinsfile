@@ -5,7 +5,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-			sh './build.sh'
+			bat 'build'
 			}
         }
         stage('test') {
