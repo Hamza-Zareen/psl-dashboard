@@ -5,7 +5,7 @@ pipeline {
             steps {
                 echo "Hi it's Building"
 				sh '''
-                    echo Downloading
+                    echo "Downloading"
                 '''
             }
         }
