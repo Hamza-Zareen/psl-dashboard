@@ -5,9 +5,9 @@ pipeline {
     stages {
         stage('build') {
             steps {
-				sh """
-                    echo "khkjh"
-                """
+				dir(".jenkins/"){
+					sh 'build.sh'
+				}
             }
         }
         stage('test') {
