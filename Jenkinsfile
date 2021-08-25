@@ -4,7 +4,9 @@ pipeline {
         stage('build') {
             steps {
                 echo "Hi it's Building"
-				sh './build.sh'
+				sh '''
+                    echo Downloading
+                '''
             }
         }
         stage('test') {
