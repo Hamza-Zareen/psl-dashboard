@@ -1,12 +1,12 @@
-#!/usr/bin/env groovy
+#!/bin/bash
 
 pipeline {
     agent any
     stages {
         stage('build') {
             steps {
-				sh 'pwd'
-            }
+			sh './build.sh'
+			}
         }
         stage('test') {
             steps {
