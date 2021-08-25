@@ -5,9 +5,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-				dir(".jenkins/"){
-					sh 'build.sh'
-				}
+				sh 'pwd'
             }
         }
         stage('test') {
