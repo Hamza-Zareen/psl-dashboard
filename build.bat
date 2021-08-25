@@ -1,3 +1,3 @@
-echo "hello"
-mvn validate
-mvn compile
+call mvn clean
+call mvn validate
+call mvn compile
