@@ -8,6 +8,12 @@ class PslDashboardApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("contextLoaded");
+    }
+
+    @Test
+    void anotherTestToCheckJenkins() {
+        System.out.println("Checking Jenkins");
     }
 
 }
